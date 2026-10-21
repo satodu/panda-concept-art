@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shizuka: showcase</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=Inter:wght@300;400&family=Inter+Tight:wght@200;300&family=Shippori+Mincho:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../tokens/tokens.css">
+<link rel="stylesheet" href="../tokens/components.css">
+<style>
+  .app { display: grid; grid-template-columns: 92px 1fr; min-height: 100vh; }
+  main { padding: 56px 56px 120px; display: grid; gap: 40px; justify-items: center; }
+  header { width: 100%; display: flex; justify-content: space-between; align-items: flex-start; }
+  .row { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; }
+  .swatch { width: 28px; height: 28px; border-radius: 50%; border: 1px solid var(--color-hairline-strong); cursor: pointer; }
+</style>
+</head>
+<body class="decor">
+<div class="app">
+  <nav class="rail" aria-label="main"><span aria-current="page">○</span><span>∿</span><span>⌂</span><span>◐</span><span>|</span></nav>
+  <main>
+    <header>
+      <div><h1 class="display display--md">Shizuka</h1><hr class="rule" style="width:360px"><p class="soft" style="margin:6px 0 0">nothing is perfect. rest anyway.</p></div>
+      <div class="row"><span class="label">kanji</span>
+        <button class="swatch" style="background:#A8473A" data-p="#A8473A" aria-label="shu"></button>
+        <button class="swatch" style="background:#2F3F6B" data-p="#2F3F6B" aria-label="indigo"></button>
+        <button class="swatch" style="background:#6B7A3A" data-p="#6B7A3A" aria-label="moss"></button>
+      </div>
+      <div class="ghost" aria-hidden="true">静か</div>
+    </header>
+
+    <div class="cards">
+      <section class="card" style="width:700px;height:360px;padding:0"><div class="label" style="position:absolute;left:40px;top:36px">breathe</div>
+        <div id="ink1" class="ink" style="left:250px;top:-150px"></div>
+        <div class="num-xl" style="position:absolute;left:40px;bottom:36px;font-size:64px">4 · <span class="fade-2">7</span> · <span class="fade-3">8</span></div></section>
+      <section class="card" style="width:390px;height:360px"><div class="label">now</div>
+        <div class="num-xl" style="font-size:92px;margin-top:24px">06:4<span class="fade-1">8</span></div>
+        <p class="soft" style="margin-top:36px">the rest can wait.</p>
+        <span class="kanji enter" style="position:absolute;right:26px;bottom:24px;font-size:90px">間</span></section>
+      <section class="card" style="width:450px;height:360px"><div class="label">one thing</div>
+        <div class="task" role="checkbox" aria-checked="true" tabindex="0" style="margin-top:34px"><span class="task__box"></span><span class="task__text">water the plant</span></div>
+        <div class="row" style="justify-content:space-between;margin-top:60px"><span>rain</span><div class="toggle" role="switch" aria-checked="true" tabindex="0"></div></div></section>
+    </div>
+
+    <div class="cards">
+      <section class="card" style="width:440px"><div class="label">buttons</div>
+        <div class="row" style="margin-top:22px"><button class="btn btn--ink">start</button><button class="btn">later</button></div>
+        <div class="row" style="margin-top:22px"><button class="btn btn--primary">save</button></div>
+        <div class="row" style="margin-top:22px"><span class="chip chip--on">calm</span><span class="chip">paper</span><span class="chip">ink</span></div></section>
+      <section class="card" style="width:440px"><div class="label">field</div>
+        <div class="field-wrap" style="margin-top:20px"><input class="field" placeholder="one word…" aria-label="text"><span class="help">only what matters today.</span></div>
+        <div class="slider" style="margin-top:34px"><i style="width:62%"></i><b style="left:62%"></b></div></section>
+      <section class="card" style="width:440px"><div class="label">kanji</div>
+        <div class="row" style="margin-top:20px;gap:30px"><span class="kanji">静</span><span class="kanji">間</span><span class="kanji">白</span></div>
+        <p class="soft" style="font-size:17px">one per screen. plain.</p></section>
+    </div>
+
+    <div class="toast"><span class="kanji" style="font-size:36px">静</span><span>done. rest a little.</span></div>
+  </main>
+</div>
+<span class="folio" style="position:fixed;right:52px;top:40px">No. 001 · Vol. 03</span>
+<span class="folio" style="position:fixed;left:120px;bottom:40px;letter-spacing:6px">静か · quiet</span>
+<script src="suminagashi.js"></script>
+<script>
+  for (let i = 1; i <= 46; i++) { const r = n => { const x = Math.sin(n * 127.1 + 311.7) * 43758.5453; return x - Math.floor(x); }, z = r(i + 201), d = document.createElement('i'); d.className = 'speck'; d.style.cssText = `left:${r(i) * 100}%;top:${r(i + 101) * 100}%;width:${1 + z * 2.4}px;height:${1 + z * 2.4}px;opacity:${0.4 + z * 0.6}`; document.body.appendChild(d); }
+  suminagashi(document.getElementById('ink1'), {size: 760, rings: 11, seed: 3});
+  document.querySelectorAll('[data-p]').forEach(b => b.addEventListener('click', () => document.documentElement.style.setProperty('--color-primary', b.dataset.p)));
+  document.querySelectorAll('.toggle, .task').forEach(t => t.addEventListener('click', () => t.setAttribute('aria-checked', t.getAttribute('aria-checked') !== 'true')));
+</script>
+</body>
+</html>

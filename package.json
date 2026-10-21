@@ -1,0 +1,28 @@
+{
+  "name": "art-concept",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Three art concepts (Oriental Brutalismo, Galdr, Shizuka) with docs, tokens, scripts and Remotion demos.",
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "still": "remotion still src/index.ts",
+    "render": "remotion render src/index.ts",
+    "asset": "node tools/make-asset.mjs",
+    "fonts": "node tools/get-fonts.mjs",
+    "assets": "node tools/make-asset.mjs --all --png",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.537",
+    "@remotion/google-fonts": "4.0.537",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.537"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "2.6.2",
+    "@types/react": "19.1.8",
+    "typescript": "5.8.3"
+  }
+}

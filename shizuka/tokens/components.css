@@ -1,0 +1,105 @@
+/* SHIZUKA: ready-made components. Requires tokens.css. Change --color-primary and the kanji changes color.
+   Aged paper + sumi ink + one kanji. No big shadow, no glow. The ink bloom comes from examples/suminagashi.js. */
+:root {
+  --color-primary-soft: color-mix(in srgb, var(--color-primary) 14%, transparent);
+  --color-primary-glow: color-mix(in srgb, var(--color-primary) 30%, transparent);
+  --ease: cubic-bezier(0.25, 0.1, 0.25, 1);
+  --paper-fiber: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><filter id='f'><feTurbulence type='fractalNoise' baseFrequency='0.9 0.35' numOctaves='3' seed='7'/><feColorMatrix values='0 0 0 0 0.11 0 0 0 0 0.105 0 0 0 0 0.1 0 0 0 0.9 -0.34'/></filter><rect width='400' height='400' filter='url(%23f)' opacity='0.5'/></svg>");
+}
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; color: var(--color-ink); font: 300 20px/1.5 var(--font-body);
+  background:
+    var(--paper-fiber),
+    radial-gradient(ellipse at 50% 45%, transparent 55%, color-mix(in srgb, var(--color-canvas-deep) 90%, transparent) 100%),
+    radial-gradient(color-mix(in srgb, var(--color-black) 8%, transparent) 1px, transparent 1.5px) 0 0 / 28px 28px,
+    var(--color-canvas); }
+::selection { background: var(--color-black); color: var(--color-card-hi); }
+
+/* typography */
+.display { font: 200 clamp(56px, 8vw, 150px)/1 var(--font-display); letter-spacing: .08em; text-transform: uppercase; margin: 0; }
+.display--md { font-size: clamp(40px, 5vw, 84px); }
+.display::after, .dot-end::after { content: "."; }
+.num-xl { font: 200 clamp(80px, 10vw, 150px)/1 var(--font-display); letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
+/* half-erased numbers: the last digits fade. Use <span class="fade-1"> ... */
+.fade-1 { opacity: .72; } .fade-2 { opacity: .46; } .fade-3 { opacity: .22; }
+.label { font: 14px var(--font-mono); letter-spacing: 3px; text-transform: uppercase; color: var(--color-text-muted); }
+.soft { color: var(--color-ink-soft); }
+.ghost { writing-mode: vertical-rl; font: 400 90px var(--font-jp); letter-spacing: .3em; color: var(--color-ghost); user-select: none; }
+
+/* straight 1px rule, no wobble */
+.rule { height: 1px; border: 0; margin: 12px 0; background: var(--color-hairline-strong); }
+
+/* showcase decoration: specks, ledger frame, folio. Remove for dense product screens. */
+.decor { position: relative; }
+.decor::before { content: ""; z-index: -1; position: fixed; inset: 28px; border: 1px solid var(--color-hairline); pointer-events: none; }
+.folio { font: 13px var(--font-mono); letter-spacing: 4px; color: var(--color-text-muted); text-transform: uppercase; }
+.speck { position: absolute; border-radius: 50%; background: color-mix(in srgb, var(--color-black) 20%, transparent); pointer-events: none; }
+
+/* kanji: a real character, plain, in the primary. No box, no seal. One per screen. */
+.kanji { display: inline-grid; place-items: center; font: 700 120px/1 var(--font-jp); color: var(--color-primary); }
+
+/* card: lighter paper over darker paper */
+.card { background: var(--color-card); border: 1px solid var(--color-hairline); border-radius: var(--radius-card);
+  box-shadow: var(--shadow-contact); padding: 32px; transition: background .52s var(--ease); position: relative; overflow: hidden; }
+.card:hover { background: var(--color-card-hi); }
+.stack { display: grid; gap: 20px; }
+.cards { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
+.ink { position: absolute; pointer-events: none; mix-blend-mode: multiply; }
+
+/* button */
+.btn { height: 56px; padding: 0 34px; border-radius: var(--radius-pill); border: 1px solid var(--color-hairline-strong); background: transparent;
+  color: var(--color-ink); font: 300 20px var(--font-body); cursor: pointer; transition: background .24s var(--ease); }
+.btn:hover { background: var(--color-card-hi); }
+.btn:focus-visible, .field:focus-visible { outline: 2px solid var(--color-ink); outline-offset: 4px; }
+.btn--ink { background: var(--color-black); border-color: var(--color-black); color: var(--color-card-hi); }
+.btn--ink:hover { background: var(--color-ink-soft); }
+.btn--primary { background: var(--color-primary); border-color: var(--color-primary); color: var(--color-on-primary); font-weight: 400; }
+.btn--primary:hover { filter: brightness(1.08); }
+.btn:disabled { opacity: .4; pointer-events: none; }
+
+/* field */
+.field-wrap { display: grid; gap: 10px; }
+.field { height: 56px; padding: 0 24px; width: 100%; background: var(--color-card); border: 1px solid var(--color-hairline-strong); border-radius: var(--radius-control);
+  color: var(--color-ink); font: 300 22px var(--font-body); }
+.field:focus { outline: none; border-color: var(--color-ink); }
+.field::placeholder { color: var(--color-text-muted); }
+.field--error { border-style: dashed; border-color: var(--color-ink); }
+.help { font-size: 17px; color: var(--color-ink-soft); }
+
+/* chip */
+.chip { display: inline-block; font: 14px var(--font-mono); letter-spacing: 3px; text-transform: uppercase; padding: 8px 18px; border-radius: 999px;
+  border: 1px solid var(--color-hairline-strong); color: var(--color-text-muted); }
+.chip--on { background: var(--color-black); border-color: var(--color-black); color: var(--color-card-hi); }
+
+/* toggle, task */
+.toggle { width: 56px; height: 32px; border-radius: 999px; background: var(--color-hairline-strong); position: relative; cursor: pointer; transition: background .52s var(--ease); }
+.toggle::after { content: ""; position: absolute; top: 4px; left: 4px; width: 24px; height: 24px; border-radius: 50%; background: var(--color-card-hi); transition: transform .52s var(--ease), background .52s; }
+.toggle[aria-checked="true"] { background: var(--color-black); }
+.toggle[aria-checked="true"]::after { transform: translateX(24px); background: var(--color-primary); }
+.task { display: flex; align-items: center; gap: 18px; }
+.task__box { width: 28px; height: 28px; border-radius: 50%; border: 1.5px solid var(--color-hairline-strong); display: grid; place-items: center; }
+.task[aria-checked="true"] .task__box { background: var(--color-black); border-color: var(--color-black); }
+.task[aria-checked="true"] .task__box::after { content: "✓"; color: var(--color-primary); font-size: 16px; }
+.task[aria-checked="true"] .task__text { text-decoration: line-through; opacity: .45; }
+
+/* slider */
+.slider { height: 2px; background: var(--color-hairline-strong); position: relative; }
+.slider > i { position: absolute; left: 0; top: 0; bottom: 0; background: var(--color-black); }
+.slider > b { position: absolute; top: -9px; width: 20px; height: 20px; margin-left: -10px; border-radius: 50%; background: var(--color-card-hi); border: 1px solid var(--color-hairline-strong); }
+
+/* list, rail */
+.list > li { display: flex; justify-content: space-between; align-items: center; padding: 18px 0; border-top: 1px solid var(--color-hairline); list-style: none; }
+.list { margin: 0; padding: 0; }
+.rail { width: 92px; border-right: 1px solid var(--color-hairline); display: grid; align-content: center; justify-items: center; gap: 46px; color: var(--color-ink-soft); font-size: 26px; }
+.rail [aria-current="page"] { color: var(--color-primary); }
+
+/* toast */
+.toast { display: flex; align-items: center; gap: 22px; padding: 26px 34px; border-radius: var(--radius-card); background: var(--color-card);
+  border: 1px solid var(--color-hairline); box-shadow: var(--shadow-contact); animation: rise 1.2s var(--ease) both; }
+.modal { max-width: 560px; padding: 40px; }
+.overlay { background: color-mix(in srgb, var(--color-black) 28%, transparent); backdrop-filter: blur(6px); }
+
+/* motion: slow. the ink spreads, nothing snaps. */
+@keyframes rise { from { opacity: 0; filter: blur(12px); transform: translateY(14px); } to { opacity: 1; filter: none; transform: none; } }
+.enter { animation: rise 1.2s var(--ease) both; }
+@media (prefers-reduced-motion: reduce) { .enter, .toast  .toggle, .toggle::after, .card, .btn { transition: none; } }

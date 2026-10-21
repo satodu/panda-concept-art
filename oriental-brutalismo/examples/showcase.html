@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Oriental Brutalismo: showcase</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=JetBrains+Mono&family=Noto+Sans+JP:wght@300;700&family=Space+Grotesk:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../tokens/tokens.css">
+<link rel="stylesheet" href="../tokens/components.css">
+<style>
+  main { max-width: 1280px; margin: 0 auto; padding: 56px 24px 120px; display: grid; gap: 24px; }
+  .row { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+  .swatch { width: 36px; height: 36px; border-radius: 12px; border: 1px solid var(--color-hairline-strong); cursor: pointer; }
+</style>
+</head>
+<body>
+<main>
+  <header class="row" style="justify-content: space-between">
+    <h1 class="display display--md">Oriental</h1>
+    <div class="row"><span class="label">primary color</span>
+      <button class="swatch" style="background:#E63946" data-p="#E63946" data-on="#f3ece6" aria-label="vermilion"></button>
+      <button class="swatch" style="background:#F59E0B" data-p="#F59E0B" data-on="#090a0f" aria-label="amber"></button>
+      <button class="swatch" style="background:#D4FF00" data-p="#D4FF00" data-on="#090a0f" aria-label="acid"></button>
+    </div>
+  </header>
+
+  <div class="bento">
+    <section class="card col-5"><div class="card__head"><span>STATUS</span><span>01</span></div>
+      <div class="num-xl">98.4<span style="color:var(--color-primary);font-size:.5em">%</span></div>
+      <p class="muted">uptime over the last 30 days</p>
+      <div class="progress"><i style="width:84%"></i></div>
+    </section>
+
+    <section class="card col-4"><div class="card__head"><span>BUTTONS</span><span>02</span></div>
+      <div class="row"><button class="btn">Cancel</button><button class="btn btn--primary">Publish</button><button class="btn btn--ghost">Back</button></div>
+      <div class="row" style="margin-top:20px"><span class="tag">In.</span><span class="tag">Git.</span><span class="tag tag--primary">#01</span></div>
+      <div class="row" style="margin-top:20px"><div class="toggle" role="switch" aria-checked="true" tabindex="0"></div><span>Editorial mode</span></div>
+    </section>
+
+    <section class="card col-3" style="display:grid;place-items:center"><div class="hanko hanko--slam"><span>間</span><span>禅</span><span>禅</span><span>間</span></div></section>
+
+    <section class="card col-4"><div class="card__head"><span>FORM</span><span>03</span></div>
+      <div class="field-wrap"><label class="label" for="n">project name</label><input id="n" class="field" placeholder="oriental"></div>
+      <div class="field-wrap" style="margin-top:16px"><label class="label" for="t">token</label><input id="t" class="field field--error" value="x9f-"><span class="help help--error">ERROR. Token expired.</span></div>
+    </section>
+
+    <section class="card col-4"><div class="card__head"><span>QUEUE</span><span>04</span></div>
+      <ul class="list"><li>Theme deploy <span class="status status--on">ACTIVE</span></li><li>Review tokens <span class="status">QUEUE</span></li><li>Generate banners <span class="status">QUEUE</span></li></ul>
+    </section>
+
+    <section class="card col-4"><div class="card__head"><span>TABLE</span><span>05</span></div>
+      <table class="table"><thead><tr><th>service</th><th style="text-align:right">ms</th></tr></thead>
+      <tbody><tr><td>api</td><td class="num">42</td></tr><tr><td>auth</td><td class="num">31</td></tr><tr><td>cdn</td><td class="num">12</td></tr></tbody></table>
+    </section>
+
+    <section class="col-12 toast"><span class="toast__key">SYNC</span><span>Theme applied to 14 components.</span></section>
+    <section class="card col-12"><div class="tabs"><button class="tab" aria-selected="true">General</button><button class="tab">Account</button><button class="tab">Advanced</button></div>
+      <div class="loader" style="margin-top:24px"><i></i><i></i><i></i><i></i><i></i><i></i></div>
+      <div class="cross" style="margin-top:24px">+ + + + + + + +</div>
+    </section>
+  </div>
+</main>
+<script>
+  document.querySelectorAll('[data-p]').forEach(b => b.addEventListener('click', () => {
+    document.documentElement.style.setProperty('--color-primary', b.dataset.p);
+    document.documentElement.style.setProperty('--color-on-primary', b.dataset.on);
+  }));
+  document.querySelectorAll('.toggle').forEach(t => t.addEventListener('click', () => t.setAttribute('aria-checked', t.getAttribute('aria-checked') !== 'true')));
+</script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+:root {
+  --color-ink: #0C0C0B;
+  --color-ink2: #141413;
+  --color-ink3: #1D1D1B;
+  --color-bone: #E9E4D6;
+  --color-bone-ink: #14110c;
+  --color-bone-muted: #6b665a;
+  --color-primary: #8FF3FF;
+  --color-primary-soft: rgba(143,243,255,0.25);
+  --color-spectral-a: #8B5CF6;
+  --color-spectral-b: #7DF9FF;
+  --color-text-muted: #8F8E88;
+  --color-hairline: rgba(233,228,214,0.14);
+  --color-hairline-strong: rgba(233,228,214,0.32);
+  --color-black: #0C0C0B;
+  --color-white: #F3F0E6;
+  --color-on-primary: #0C0C0B;
+  --color-primary-glow: rgba(143,243,255,0.35);
+  --font-display: "Big Shoulders Display";
+  --font-editorial: "Source Serif 4";
+  --font-rune: "Noto Sans Runic";
+  --font-body: Inter;
+  --font-mono: "IBM Plex Mono";
+  --geometry-chamfer: 14px;
+  --geometry-border: 1px;
+  --geometry-filet: 2px;
+  --space-gap: 16px;
+  --space-gap-lg: 28px;
+  --space-pad: 28px;
+}

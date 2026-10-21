@@ -1,0 +1,30 @@
+:root {
+  --color-canvas: #E4DFD0;
+  --color-canvas-deep: #D6D0BD;
+  --color-card: #ECE7D9;
+  --color-card-hi: #F3EFE3;
+  --color-ink: #1C1B19;
+  --color-ink-soft: #5E5A50;
+  --color-text-muted: #7D7869;
+  --color-fade: rgba(28,27,25,0.24);
+  --color-ghost: rgba(28,27,25,0.07);
+  --color-hairline: rgba(28,27,25,0.12);
+  --color-hairline-strong: rgba(28,27,25,0.22);
+  --color-primary: #A8473A;
+  --color-primary-glow: rgba(168,71,58,0.30);
+  --color-primary-soft: rgba(168,71,58,0.14);
+  --color-black: #1C1B19;
+  --color-white: #F3EFE3;
+  --color-on-primary: #F3EFE3;
+  --font-display: "Inter Tight";
+  --font-body: Inter;
+  --font-mono: "IBM Plex Mono";
+  --font-jp: "Shippori Mincho";
+  --radius-card: 40px;
+  --radius-control: 24px;
+  --radius-pill: 999px;
+  --space-gap: 20px;
+  --space-gap-lg: 40px;
+  --space-pad: 32px;
+  --shadow-contact: 0 1px 2px rgba(28,27,25,0.06);
+}

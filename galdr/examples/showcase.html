@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Galdr: showcase</title>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500&family=Noto+Sans+Runic&family=Source+Serif+4:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../tokens/tokens.css">
+<link rel="stylesheet" href="../tokens/components.css">
+<style>
+  main { max-width: 1320px; margin: 0 auto; padding: 48px 28px 120px; display: grid; gap: 28px; }
+  .row { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; }
+  .swatch { width: 36px; height: 36px; border: 1px solid var(--color-hairline-strong); cursor: pointer; clip-path: polygon(0 0, 70% 0, 100% 30%, 100% 100%, 30% 100%, 0 70%); }
+  .stage { position: relative; display: grid; place-items: center; height: 380px; }
+</style>
+</head>
+<body class="lines">
+<main>
+  <header class="row" style="justify-content: space-between">
+    <h1 class="display display--md">Galdr</h1>
+    <div class="row"><span class="label">primary color</span>
+      <button class="swatch" style="background:#8FF3FF" data-p="#8FF3FF" data-on="#0C0C0B" aria-label="ice"></button>
+      <button class="swatch" style="background:#7DF9B4" data-p="#7DF9B4" data-on="#0C0C0B" aria-label="jade"></button>
+      <button class="swatch" style="background:#FFB86B" data-p="#FFB86B" data-on="#0C0C0B" aria-label="amber"></button>
+    </div>
+  </header>
+
+  <div class="grid">
+    <div class="col-3 panel panel--bone"><div class="in">
+      <div class="label">spec sheet</div>
+      <dl class="spec" style="margin-top:12px">
+        <div><dt>Catalog</dt><dd>GD-0417</dd></div><div><dt>Locality</dt><dd>Höfn, IS</dd></div>
+        <div><dt>Mohs hardness</dt><dd>7</dd></div><div><dt>Density</dt><dd>2.65 g/cm³</dd></div>
+      </dl>
+    </div></div>
+
+    <div class="col-6">
+      <div class="stage">
+        <div class="halo" style="position:absolute;inset:0"></div><div class="scan"></div><svg id="ring" width="380" height="380" viewBox="-190 -190 380 380" style="position:absolute;left:50%;top:50%;margin:-190px 0 0 -190px"></svg>
+        <svg viewBox="0 0 400 400" width="340" height="340" style="position:relative">
+          <g stroke="var(--color-bone)" stroke-opacity=".5" stroke-width="1.5">
+            <polygon points="150,120 210,120 210,280 150,280" fill="var(--color-spectral-a)" opacity=".5"/>
+            <polygon points="210,120 270,120 270,280 210,280" fill="var(--color-spectral-a)" opacity=".85"/>
+            <polygon points="270,120 310,120 310,280 270,280" fill="var(--color-spectral-a)" opacity=".6"/>
+            <polygon points="150,120 210,120 230,40" fill="var(--color-spectral-b)" opacity=".35"/>
+            <polygon points="210,120 270,120 230,40" fill="var(--color-spectral-b)" opacity=".5"/>
+            <polygon points="150,280 210,280 230,360" fill="var(--color-spectral-b)" opacity=".35"/>
+            <polygon points="210,280 270,280 230,360" fill="var(--color-spectral-b)" opacity=".5"/>
+          </g>
+          <g stroke="var(--color-primary)" fill="none" stroke-width="1.2"><polyline points="170,150 90,150 60,110"/><polyline points="290,200 330,200 360,160"/></g>
+          <g fill="var(--color-primary)" font-family="IBM Plex Mono" font-size="18"><circle cx="170" cy="150" r="4"/><circle cx="290" cy="200" r="4"/><text x="40" y="108">A</text><text x="366" y="158">B</text></g>
+        </svg>
+      </div>
+      <div class="plinth"></div>
+      <p class="caption" style="margin-top:12px">FIG. 01 — AMETHYST, FRONT VIEW</p>
+    </div>
+
+    <div class="col-3 panel panel--bone panel--active"><div class="in">
+      <div class="vertical" style="float:right;font-size:26px">ᚨᛗᛖᚦᛁᛊᛏ</div>
+      <h2 class="display display--md" style="font-size:52px;color:var(--color-bone-ink);max-width:260px">Amethyst cluster</h2>
+      <p class="editorial">Cluster of prismatic purple quartz crystals, collected from a basaltic geode.</p>
+      <div class="progress progress--bone"><i style="width:70%"></i></div>
+      <p class="caption" style="margin-top:8px">MOHS 7.0</p>
+    </div></div>
+
+    <div class="col-4 panel"><div class="in">
+      <div class="label">actions</div>
+      <div class="row" style="margin-top:16px"><button class="btn btn--ghost">Cancel</button><button class="btn">Add</button></div>
+      <div class="row" style="margin-top:20px"><span class="tag tag--on">Quartz</span><span class="tag">Fluorite</span><span class="tag">Beryl</span></div>
+      <div class="row" style="margin-top:20px"><div class="toggle" role="switch" aria-checked="true" tabindex="0"></div><span>Show scale</span></div>
+    </div></div>
+
+    <div class="col-4 panel"><div class="in">
+      <div class="label">form</div>
+      <div class="field-wrap" style="margin-top:12px"><label class="label" for="a">shard name</label><input id="a" class="field" placeholder="amethyst cluster"></div>
+      <div class="field-wrap" style="margin-top:16px"><label class="label" for="b">catalog</label><input id="b" class="field" value="GD-9999"><span class="help help--error">ERROR — Shard not found.</span></div>
+    </div></div>
+
+    <div class="col-4 panel"><div class="in">
+      <div class="label">provenance</div>
+      <div class="timeline" style="margin-top:24px"><div class="done">1984<small>Collected</small></div><div class="done">1991<small>Acquired</small></div><div>2024<small>Digital</small></div></div>
+      <div class="progress" style="margin-top:28px"><i style="width:62%"></i></div>
+    </div></div>
+
+    <div class="col-12 toast"><span class="stamp">GD-0417</span><span>Shard added to the collection.</span></div>
+  </div>
+
+  <h2 class="display display--md" style="font-size:44px;margin-top:20px">More components</h2>
+  <div class="grid">
+    <div class="col-4 panel"><div class="in"><div class="label">tabs</div>
+      <div class="tabs" style="margin-top:16px"><button class="tab" data-rune="ᚨ" aria-selected="true">Overview</button><button class="tab" data-rune="ᛊ">Spectrum</button><button class="tab" data-rune="ᛏ">Log</button></div>
+      <p class="editorial" style="font-size:17px">Read the plate, then the spectrum.</p></div></div>
+    <div class="col-4 panel"><div class="in"><div class="label">slider · hardness</div>
+      <div class="slider"><i style="width:70%"></i><b style="left:70%"></b></div><div class="label" style="display:flex;justify-content:space-between"><span>talc 1</span><span>quartz 7</span><span>diamond 10</span></div></div></div>
+    <div class="col-4 panel"><div class="in"><div class="label">stepper</div>
+      <div class="stepper" style="margin-top:22px"><span class="step step--on">ᚠ</span><hr class="done"><span class="step step--on">ᚢ</span><hr><span class="step">ᚦ</span><hr><span class="step">ᚨ</span></div></div></div>
+    <div class="col-4 panel"><div class="in"><div class="label">search</div>
+      <div class="search" style="margin-top:14px"><input value="amethy" aria-label="search"></div>
+      <ul class="list" style="margin:10px 0 0;padding:0;list-style:none"><li class="mono" style="padding:10px 4px;border-bottom:1px solid var(--color-hairline);color:var(--color-primary)">AMETHYST CLUSTER · GD-0417</li></ul></div></div>
+    <div class="col-4 panel"><div class="in"><div class="label">segmented · checks</div>
+      <div class="segmented" style="margin:14px 0"><button aria-pressed="true">GRID</button><button>LIST</button><button>MAP</button></div>
+      <div class="row"><span class="chk" role="checkbox" aria-checked="true" tabindex="0">facets</span><span class="chk" role="checkbox" aria-checked="false" tabindex="0">halo</span><span class="rad" role="radio" aria-checked="true" tabindex="0">dark</span></div></div></div>
+    <div class="col-4 panel panel--bone"><div class="in"><div class="label">table</div>
+      <table class="table"><tr><td>GD-0417</td><td>AMETHYST</td><td>7.0</td></tr><tr><td>GD-0388</td><td>QUARTZ</td><td>7.0</td></tr><tr><td>GD-0291</td><td>FLUORITE</td><td>4.0</td></tr></table></div></div>
+    <div class="col-4 panel"><div class="in"><div class="label">tooltip · notice</div>
+      <p><span class="tooltip">Mohs 7.0 · vitreous luster</span></p><div class="notice" data-rune="ᚾ">ERROR — Shard GD-9999 not found.</div></div></div>
+    <div class="col-4 panel"><div class="in"><div class="label">tiers</div>
+      <div class="row" style="margin-top:12px;gap:22px">
+        <span class="tier"><svg viewBox="0 0 70 86"><polygon points="35,4 62,30 35,56 8,30" fill="none" stroke="currentColor"/></svg>I</span>
+        <span class="tier"><svg viewBox="0 0 70 86"><polygon points="35,4 62,30 35,56 8,30" fill="none" stroke="currentColor"/><polygon points="35,12 62,38 35,64 8,38" fill="none" stroke="currentColor"/></svg>III</span>
+        <span class="tier tier--hi"><svg viewBox="0 0 70 86"><polygon points="35,4 62,30 35,56 8,30" fill="none"/><polygon points="35,12 62,38 35,64 8,38" fill="none"/><polygon points="35,20 62,46 35,72 8,46" fill="none"/></svg>V</span></div></div></div>
+    <div class="col-4 panel"><div class="in"><div class="label">accordion · pages</div>
+      <div class="accordion" style="margin-top:12px"><details open><summary>Provenance</summary><p>Collected 1984, acquired 1991, digitized 2024.</p></details><details><summary>Spectrum notes</summary><p>Violet to cyan, only inside the crystal.</p></details></div>
+      <div class="pages" style="margin-top:14px"><span>‹</span><span aria-current="page">01</span><span>02</span><span>03</span><span>…</span><span>›</span></div></div></div>
+  </div>
+</main>
+<script>
+  [['ᚦ',8,14,240,''],['ᛟ',72,10,200,'rune-bg--dim'],['ᚷ',20,62,260,'rune-bg--ice'],['ᛞ',82,58,220,''],['ᚱ',48,78,190,'rune-bg--dim'],['ᛉ',60,30,170,''],['ᚨ',4,38,150,'rune-bg--dim']].forEach(([g, x, y, sz, c]) => { const e = document.createElement('i'); e.className = 'rune-bg ' + c; e.textContent = g; e.style.cssText = `left:${x}%;top:${y}%;font-size:${sz}px`; document.body.appendChild(e); });
+  document.querySelectorAll('.tab').forEach(t => t.addEventListener('click', () => { t.parentNode.querySelectorAll('.tab').forEach(o => o.setAttribute('aria-selected', o === t)); }));
+  document.querySelectorAll('.segmented button').forEach(b => b.addEventListener('click', () => { b.parentNode.querySelectorAll('button').forEach(o => o.setAttribute('aria-pressed', o === b)); }));
+  document.querySelectorAll('.chk').forEach(c => c.addEventListener('click', () => c.setAttribute('aria-checked', c.getAttribute('aria-checked') !== 'true')));
+  (function () {
+    const F = 'ᚠᚢᚦᚨᚱᚲᚷᚹᚺᚾᛁᛃᛇᛈᛉᛊᛏᛒᛖᛗᛚᛜᛞᛟ', g = document.getElementById('ring'); if (!g) return;
+    let h = '<circle r="176" fill="none" stroke="#E9E4D6" stroke-opacity=".16"/><circle r="142" fill="none" stroke="#E9E4D6" stroke-opacity=".1"/><circle r="188" fill="none" stroke="#E9E4D6" stroke-opacity=".08" stroke-dasharray="2 9"/>';
+    [...F].forEach((c, i) => { h += `<text transform="rotate(${i * 15}) translate(0 -158)" text-anchor="middle" fill="#E9E4D6" fill-opacity=".32" font-family="Noto Sans Runic" font-size="16">${c}</text>`; });
+    for (let i = 0; i < 72; i++) h += `<line x1="0" x2="0" y1="-${176 + (i % 3 ? 5 : 0)}" y2="-186" transform="rotate(${i * 5})" stroke="#E9E4D6" stroke-opacity=".12"/>`;
+    g.innerHTML = '<g class="turn">' + h + '</g>';
+    if (!matchMedia('(prefers-reduced-motion: reduce)').matches) { let a = 0; const t = g.querySelector('.turn'); (function l() { a += .06; t.setAttribute('transform', `rotate(${a})`); requestAnimationFrame(l); })(); }
+  })();
+  document.querySelectorAll('[data-p]').forEach(b => b.addEventListener('click', () => {
+    document.documentElement.style.setProperty('--color-primary', b.dataset.p);
+    document.documentElement.style.setProperty('--color-on-primary', b.dataset.on);
+  }));
+  document.querySelectorAll('.toggle').forEach(t => t.addEventListener('click', () => t.setAttribute('aria-checked', t.getAttribute('aria-checked') !== 'true')));
+</script>
+</body>
+</html>

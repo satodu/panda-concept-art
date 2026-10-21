@@ -1,0 +1,13 @@
+node_modules/
+out/
+dist/
+.DS_Store
+*.log
+fonts/
+public/_shots/
+
+# AI-generated reference images (not licensed as part of this repo)
+*/reference/**/*.png
+*/reference/**/*.jpg
+*/reference/**/*.jpeg
+*/reference/**/*.webp
