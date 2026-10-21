@@ -4,7 +4,7 @@
 
 1. One subject per slide. 55–60% of the area empty.
 2. Display title with a full stop; at most 2 display sizes per slide.
-3. The primary (`#E63946`) on **one** element per slide.
+3. The primary (`#980281`) on **one** element per slide.
 4. Discreet numbering in mono (`01 / 12`).
 5. Oriental Brutalismo backgrounds: solid dark canvas, no stock photos.
 

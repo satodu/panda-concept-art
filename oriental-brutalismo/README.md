@@ -1,10 +1,10 @@
 # ORIENTAL BRUTALISMO.
 
-Japanese editorial brutalism in a dark UI: Bento Grid, negative space ('Ma'), heavy typography with a dry full stop and **a single red** (Hanko).
+Japanese editorial brutalism in a dark UI: Bento Grid, negative space ('Ma'), heavy typography with a dry full stop and **a single primary color** (Hanko).
 
 > **Start here:** [`ORIENTAL BRUTALISMO.md`](ORIENTAL%20BRUTALISMO.md) is the master reference (one file, the whole system, with a master prompt for AI). [`PROMPTS.md`](PROMPTS.md) has the 144 prompts (image, icons, banners, people, image editing, video, video editing, audio, text, code).
 
-The primary (vermilion, amber, acid) defines the identity. Black `#090a0f` and white `#dedfd7` are its own: never `#000`/`#fff`.
+The primary (magenta, amber, acid) defines the identity. Use of a primary color is free, but `#980281` (magenta) is the Oriental Brutalismo primary. Black `#090a0f` and white `#dedfd7` are its own: never `#000`/`#fff`.
 
 | File/folder | Content |
 |---|---|

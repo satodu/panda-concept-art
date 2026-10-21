@@ -23,7 +23,7 @@ An avant-garde Japanese design magazine, printed in exposed concrete and smoked 
 
 ### The 5 non-negotiables
 1. **Charcoal background, never pure black.** `#090a0f`.
-2. **One primary color** (vermilion `#E63946`) on **one** focus per screen.
+2. **One primary color** (magenta `#980281`) on **one** focus per screen.
 3. **Heavy uppercase title with a full stop.** `PANEL.`
 4. **Bento Grid with breathing room ('Ma').** At least one almost-empty card per screen.
 5. **1px hairline**, never a shadow, to separate.
@@ -50,24 +50,25 @@ An avant-garde Japanese design magazine, printed in exposed concrete and smoked 
 
 | Item | Value |
 |---|---|
-| Primary (default) | `#E63946` vermilion |
+| Primary (default) | `#980281` magenta |
+| Free use | Any primary color is allowed. `#980281` is the Oriental Brutalismo primary and the default of every token, composition and asset. |
 | Approved variations | amber `#F59E0B`, acid `#D4FF00` |
 | `primarySoft` | primary at 12% opacity (seal background, active line) |
 | `primaryGlow` | primary at 45% (rare halo) |
-| `onPrimary` | `#f3ece6` on vermilion; **`#090a0f`** on amber and acid (choose the one with the highest contrast) |
+| `onPrimary` | `#f3ece6` on magenta; **`#090a0f`** on amber and acid (choose the one with the highest contrast) |
 
 Primary rules:
 - **At most ~5% of the visible area.** It is a highlight, not a background.
 - Valid uses: the title full stop, the Hanko seal, an active status dot, the primary button, a technical underline, a highlighted chart bar, the last point of a line.
 - **Never:** a section background, long text, more than one filled button per screen, the borders of every card.
-- Text on vermilion (`onPrimary` `#f3ece6`) has only **3.6:1**: use it **only** at weight 500+ and 18px+ (AA for large text). On amber/acid use `#090a0f` (9.2:1 / 17:1); `#f3ece6` there gives 1.8 / 1.0 and is forbidden.
-- Primary as text over `surface1` has **4.3:1**: only for large text or an icon, never a paragraph.
+- Text on magenta (`onPrimary` `#f3ece6`) has **6.7:1** (AA). On amber/acid use `#090a0f` (9.2:1 / 17:1); `#f3ece6` there gives 1.8 / 1.0 and is forbidden.
+- Magenta over `canvas` has only **2.5:1** (`surface1`: 2.3:1): use it for fills, shapes and the full stop, never for small text or paragraphs. For text-size use on dark, lighten it.
 - When swapping the primary, validate ≥ 3:1 against `canvas` and `surface1`.
 
 **Swapping the primary changes the whole art.** In CSS it is one variable; in Remotion it is the `primary` prop; in scripts it is `--primary`.
 
 ```css
-:root { --color-primary: #E63946; }                       /* the only value to swap */
+:root { --color-primary: #980281; }                       /* the only value to swap */
 .hanko, .btn--primary, .dot--on { /* derived via color-mix */
   --primary-soft: color-mix(in srgb, var(--color-primary) 12%, transparent);
   --primary-glow: color-mix(in srgb, var(--color-primary) 45%, transparent);
@@ -99,8 +100,8 @@ If you need "darker than the canvas" (a well, an overlay), use `rgba(9,10,15,0.8
 | `textMuted` | `#7e8790` | secondary, metadata |
 | `hairline` | `rgba(222,223,215,0.08)` | default border |
 | `hairlineStrong` | `rgba(222,223,215,0.20)` | hover border, strong divider |
-| `primary` | `#E63946` | identity |
-| `primarySoft` | `rgba(230,57,70,0.12)` | seal/active line background |
+| `primary` | `#980281` | identity |
+| `primarySoft` | `rgba(152,2,129,0.12)` | seal/active line background |
 
 ### 2.4 Verified contrast (WCAG)
 | Pair | Ratio | Verdict |
@@ -129,8 +130,8 @@ If you need "darker than the canvas" (a well, an overlay), use `rgba(9,10,15,0.8
   --color-text-muted: #7e8790;
   --color-hairline: rgba(222,223,215,0.08);
   --color-hairline-strong: rgba(222,223,215,0.20);
-  --color-primary: #E63946;
-  --color-primary-soft: rgba(230,57,70,0.12);
+  --color-primary: #980281;
+  --color-primary-soft: rgba(152,2,129,0.12);
   --color-on-primary: #f3ece6;
 
   /* typography */
@@ -535,7 +536,7 @@ Any command accepts `--primary "#rrggbb"`.
 
 ## 17. WHAT MAKES THIS CONCEPT ITS OWN
 
-This system shares the vermilion + hairline + kanji idea with other dark oriental systems. What distinguishes it, and what you must **keep** so it is not read as a copy:
+This system shares the magenta + hairline + kanji idea with other dark oriental systems. What distinguishes it, and what you must **keep** so it is not read as a copy:
 
 | Own decision (keep) | What to avoid (belongs to another system) |
 |---|---|
@@ -544,7 +545,7 @@ This system shares the vermilion + hairline + kanji idea with other dark orienta
 | **Archivo Black** + Space Grotesk + JetBrains Mono | editorial serif (Fraunces) |
 | Depth through **tonal layer + hairline** | offset hard shadow |
 | **間 / 禅** seal in a 2×2 grid | — |
-| **Swappable** primary (vermilion, amber, acid) | kintsugi gold |
+| **Swappable** primary (magenta, amber, acid) | kintsugi gold |
 | **System/devtools** tone | — |
 | Mono labels `In.` `Git.` `#01` `[ 0.1.0 ]` | — |
 
@@ -556,17 +557,17 @@ Rule of thumb: if the screen has **warm brown + serif + hard shadow**, it left t
 
 > **Full library (144 prompts):** [`PROMPTS.md`](PROMPTS.md) covers images without and with people, icons, banners, image editing, video generation and editing, audio, text and code. Below, only the essentials.
 
-Base (paste at the end of any prompt): `oriental brutalist minimalist aesthetic, deep matte obsidian (#090a0f), dark graphite panels (#14171f), stark off-white (#dedfd7), single vermilion red accent (#E63946), 1px hairlines, dot matrix, '+' registration marks, vertical Japanese tategaki, Hanko seal, vast negative space ('Ma'), matte concrete and smoked glass, directional studio light, no plastic reflections, no neon`
+Base (paste at the end of any prompt): `oriental brutalist minimalist aesthetic, deep matte obsidian (#090a0f), dark graphite panels (#14171f), stark off-white (#dedfd7), single magenta accent (#980281), 1px hairlines, dot matrix, '+' registration marks, vertical Japanese tategaki, Hanko seal, vast negative space ('Ma'), matte concrete and smoked glass, directional studio light, no plastic reflections, no neon`
 
 | Piece | Prompt (summary) |
 |---|---|
 | UI | `High-end modern UI design concept for [APP]. Bento Grid, translucent dark panels, 1px hairline borders, bold grotesque headers with dry terminal periods, vertical Japanese columns, monospace tags, Hanko badges. Figma UI showcase --ar 16:9` |
-| Background | `Minimalist abstract backdrop, thin 1px wireframe planes, dot matrix, '+ + + +', levitating Bento blocks, red Hanko seal, vast negative space --ar 16:9` |
+| Background | `Minimalist abstract backdrop, thin 1px wireframe planes, dot matrix, '+ + + +', levitating Bento blocks, magenta Hanko seal, vast negative space --ar 16:9` |
 | Icon | `Graphic icon badge featuring [OBJECT], Bento frame, 1px wireframe rings, Hanko seal, high contrast vector --ar 1:1` |
-| Portrait | `Metaphysical surreal portrait of [PERSON], deconstructed into architectural slices and Bento modules, raw stone, vertical kanji, red Hanko accent --ar 4:5` |
-| Banner without text | `Abstract hero banner, floating monoliths and levitating spheres, graphite modules, a single vermilion Hanko slice, no readable text --ar 16:9` |
-| Architecture | `Abstract architecture of [CONCEPT]: Bento cubes joined by 1px circuits, active pulses in vermilion --ar 16:9` |
-| Terminal | `Floating terminal window, dark glass Bento panel, code in vermilion and off-white, vertical Japanese metadata --ar 16:9` |
+| Portrait | `Metaphysical surreal portrait of [PERSON], deconstructed into architectural slices and Bento modules, raw stone, vertical kanji, magenta Hanko accent --ar 4:5` |
+| Banner without text | `Abstract hero banner, floating monoliths and levitating spheres, graphite modules, a single magenta Hanko slice, no readable text --ar 16:9` |
+| Architecture | `Abstract architecture of [CONCEPT]: Bento cubes joined by 1px circuits, active pulses in magenta --ar 16:9` |
+| Terminal | `Floating terminal window, dark glass Bento panel, code in magenta and off-white, vertical Japanese metadata --ar 16:9` |
 
 Negatives: `no neon, no gradients, no plastic gloss, no rainbow, no cartoon, no 3D bevel, no gibberish text`. Full prompts in `docs/07-ai-prompts.md` and in `reference/original-prompt-manual.md`.
 
@@ -582,7 +583,7 @@ shadows, or #000 / #FFF.
 COLOR (the only live color = the primary):
 - canvas #090a0f · surface1 #14171f · surface2 #1c242c · text #dedfd7 · muted #7e8790
 - border 1px rgba(222,223,215,0.08); hover rgba(222,223,215,0.20)
-- primary #E63946 (variable --color-primary). Use it on ONE focus per screen: title full stop, Hanko
+- primary #980281 (variable --color-primary). Use it on ONE focus per screen: title full stop, Hanko
   seal, active status, primary button, one chart bar. Never as a background. Text on the primary:
   18px+ weight 500+, color #f3ece6.
 TYPOGRAPHY: titles in Archivo Black, UPPERCASE, tracking -0.02em, line-height 1, ending with "."

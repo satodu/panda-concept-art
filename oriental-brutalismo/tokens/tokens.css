@@ -6,12 +6,12 @@
   --color-text-muted: #7e8790;
   --color-hairline: rgba(222,223,215,0.08);
   --color-hairline-strong: rgba(222,223,215,0.20);
-  --color-primary: #E63946;
-  --color-primary-soft: rgba(230,57,70,0.12);
+  --color-primary: #980281;
+  --color-primary-soft: rgba(152,2,129,0.12);
   --color-black: #090a0f;
   --color-white: #dedfd7;
   --color-on-primary: #f3ece6;
-  --color-primary-glow: rgba(230,57,70,0.45);
+  --color-primary-glow: rgba(152,2,129,0.45);
   --font-display: "Archivo Black";
   --font-body: "Space Grotesk";
   --font-mono: "JetBrains Mono";

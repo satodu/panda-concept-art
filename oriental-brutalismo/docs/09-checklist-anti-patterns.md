@@ -3,7 +3,7 @@
 ## Before delivering
 
 - [ ] Background `#090a0f` (or `canvas`); never `#000` or `#fff` (use the concept's `black` and `white`).
-- [ ] **One** red focus per screen (plus status dots).
+- [ ] **One** magenta focus per screen (plus status dots).
 - [ ] Uppercase title with a full stop.
 - [ ] At least one breathing block ('Ma') on every screen.
 - [ ] 1px `hairline` borders, no big shadows.
@@ -18,7 +18,7 @@
 |---|---|
 | Purple/blue gradients | smell like a SaaS template |
 | Cyber neon | contradicts the calm of brutalism |
-| Red on large backgrounds | the primary loses force |
+| The primary on large backgrounds | the primary loses force |
 | Diffuse shadows | depth comes from hairlines and layers |
 | Random decorative kanji | without meaning it becomes a cliché. Use real words (運用 operation, 分析 analysis, 設定 settings, 禅) |
 | Colored filled icons | use a thin neutral stroke |

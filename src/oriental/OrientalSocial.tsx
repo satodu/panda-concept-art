@@ -36,7 +36,7 @@ export const OrientalSocial: React.FC<PrimaryProps & {headline?: string; issue?:
           })}
         </div>
         <Card style={{position: 'absolute', left: 70, right: 70, bottom: 110, height: 300, clipPath: wipeX(progress(frame, 40, 56))}} label="SUMMARY" tag="01">
-          <div style={{fontFamily: F.body, fontSize: 34, color: C.white, lineHeight: 1.35, width: 600}}>Unified tokens, 14 components and a single red.</div>
+          <div style={{fontFamily: F.body, fontSize: 34, color: C.white, lineHeight: 1.35, width: 600}}>Unified tokens, 14 components and a single primary color.</div>
           <div style={{display: 'flex', gap: 10, marginTop: 28}}>
             <Tag>In.</Tag>
             <Tag>Git.</Tag>

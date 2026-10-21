@@ -58,7 +58,7 @@ Use: focus, meditation, journal, clock, lockscreen, reading, products about paus
 
 ### 2.1 The primary color is the identity
 Every Shizuka piece depends on **one** primary. Swapping it changes the kanji and the few state points, never the structure.
-Default: **shu (faded red) `#A8473A`**. Matte, earthy, small. It is not Oriental's vivid vermilion `#E63946`.
+Default: **shu (faded red) `#A8473A`**. Matte, earthy, small. It is not Oriental's vivid magenta `#980281`.
 Valid alternatives: indigo `#2F3F6B`, moss `#6B7A3A`.
 Where the primary appears: the kanji, the knob of a toggle that is on, the task check, the active rail item, the `save` button. **Never** on large backgrounds, never as long text.
 
@@ -288,7 +288,7 @@ Brand: `SHIZUKA.` Inter Tight 200 + ink bloom + the kanji 静. Clear space = hei
 - **Paper and ink, not a screen:** no other concept here uses fibre, stains and imperfection.
 - **A real ink bloom as the hero object** (Oriental has the Hanko, Galdr has the crystal).
 - **Numbers that fade.**
-- **A matte, small primary** (shu), unlike Oriental's brutal vermilion: here it is a faded mark on light paper, never a block of color.
+- **A matte, small primary** (shu), unlike Oriental's brutal magenta: here it is a faded mark on light paper, never a block of color.
 - **A plain, real kanji** instead of a perfect seal box. No hanko.
 - Shared with the others: the title with a full stop and the Japanese layer. Everything else is different.
 

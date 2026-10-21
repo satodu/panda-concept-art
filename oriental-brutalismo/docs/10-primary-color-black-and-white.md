@@ -6,16 +6,17 @@
 
 | Item | Value |
 |---|---|
-| Default primary | `#E63946` |
+| Default primary | `#980281` |
 | Token | `color.primary` (CSS: `--color-primary`) |
 | Derived | `primarySoft`, `primaryGlow`, `onPrimary` |
 | What it changes | The primary changes the button, the title full stop, the Hanko seal, active status, highlight bar, toggle on and active tag. Nothing else. |
+| Free use | Any primary color is allowed. `#980281` is the Oriental Brutalismo primary and the default of every token, composition and asset. |
 
 ## 2. Approved variations (computed contrast)
 
 | Variation | Hex | Primary contrast over the backgrounds | Text on the primary |
 |---|---|---|---|
-| vermilion (default) | `#E63946` | canvas: 4.7 (AA)<br>surface1: 4.3 (icon/large text only) | `#090a0f` (4.7:1) |
+| magenta (default) | `#980281` | canvas: 2.5 (forbidden for text)<br>surface1: 2.3 (forbidden for text) | `#f3ece6` (6.7:1) |
 | amber | `#F59E0B` | canvas: 9.2 (AAA)<br>surface1: 8.3 (AAA) | `#090a0f` (9.2:1) |
 | acid | `#D4FF00` | canvas: 17 (AAA)<br>surface1: 15.4 (AAA) | `#090a0f` (17:1) |
 

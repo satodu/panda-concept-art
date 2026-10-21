@@ -7,7 +7,7 @@
 | Color | `surface/0` | #090a0f | `--color-canvas` |
 | Color | `surface/1` | #14171f | `--color-surface1` |
 | Color | `ink/default` | #dedfd7 | `--color-text` |
-| Color | `brand/primary` | #E63946 | `--color-primary` |
+| Color | `brand/primary` | #980281 | `--color-primary` |
 | Color | `black` / `white` | #090a0f / #dedfd7 | `--color-black` / `--color-white` |
 | Type | `font/display` | Archivo Black | `--font-display` |
 | Type | `font/mono` | JetBrains Mono | `--font-mono` |
@@ -40,7 +40,7 @@ Spacing only on the 4 scale. Card padding 28px. 12-column grid, gap 24px.
 
 ```json
 {
-  "color": { "primary": { "value": "#E63946", "type": "color" } },
+  "color": { "primary": { "value": "#980281", "type": "color" } },
   "radius": { "card": { "value": "20", "type": "borderRadius" } }
 }
 ```

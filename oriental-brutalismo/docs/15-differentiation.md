@@ -1,6 +1,6 @@
 # 15. Differentiation: what makes Oriental Brutalismo its own
 
-This system uses a language that other dark oriental systems also use (vermilion, hairline, kanji, seal). For it to be recognized as **yours**, keep what is only its own and avoid what belongs to others.
+This system uses a language that other dark oriental systems also use (magenta, hairline, kanji, seal). For it to be recognized as **yours**, keep what is only its own and avoid what belongs to others.
 
 ## Own decisions (keep)
 
@@ -11,7 +11,7 @@ This system uses a language that other dark oriental systems also use (vermilion
 | Typography | **Archivo Black** + Space Grotesk + JetBrains Mono |
 | Depth | tonal layer + hairline (no shadow) |
 | Seal | **間 / 禅** in a 2×2 grid |
-| Color | **swappable** primary (vermilion, amber, acid) |
+| Color | **swappable** primary (magenta, amber, acid) |
 | Tone | system/devtools, dry voice in English with a full stop |
 | Labels | `In.` `Git.` `#01` `[ 0.1.0 ]` |
 | Motion | hard wipes, kanji with camera shake |

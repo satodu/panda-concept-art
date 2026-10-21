@@ -6,14 +6,14 @@
 | Theme | dark | dark | light |
 | Canvas | `#090a0f` | `#0C0C0B` | `#E4DFD0` |
 | Surface | `#14171f` | `#141413` and bone `#E9E4D6` | `#ECE7D9` |
-| Accent | `#E63946` | `#8FF3FF` | `#A8473A` (kanji) |
+| Accent | `#980281` | `#8FF3FF` | `#A8473A` (kanji) |
 | Display | Archivo Black | Big Shoulders Display | Inter Tight 200 |
 | Body | Space Grotesk | Source Serif 4 + Inter | Inter 300 |
 | Mono | JetBrains Mono | IBM Plex Mono | IBM Plex Mono |
 | Corners | radius 20 + hairline | 45° chamfer | radius 40 |
 | Depth | hairline and layers | light and frost | paper over paper + hairline |
 | Layout | Bento | editorial grid | paper cards and lots of emptiness |
-| Mark | red Hanko | rhombus facet seal + rune ruler | ink bloom + plain kanji |
+| Mark | magenta Hanko | rhombus facet seal + rune ruler | ink bloom + plain kanji |
 | Japanese | Gothic tategaki | Elder Futhark runes (rune ring, vertical ruler) | 7% ghost kanji + kanji |
 | Motion | dry OutExpo | smooth and precise | slow, breathing |
 | Hero object | seal | crystal | ink bloom |

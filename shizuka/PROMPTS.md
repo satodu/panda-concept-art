@@ -25,7 +25,7 @@ Every prompt in this file already carries the concept identity. Replace whatever
 ## BASE BLOCK (paste at the end of any image prompt)
 
 ```
-aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing.
+aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing.
 ```
 
 Pick **one** ending depending on the piece:
@@ -43,161 +43,161 @@ Interfaces, backgrounds, objects, environments and graphic pieces.
 *full system screen*
 
 ```
-High-end desktop app UI design for [DESCRIBE THE APP]. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. centered or asymmetric composition with huge empty space, soft paper cards of 340 to 440 px, one ink bloom as anchor. ink pill buttons, 24px-radius fields, toggles with a faded red knob, thin sliders, half-erased numerals, one faded kanji stamp. Crisp readable text, Figma showcase. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen. --ar 16:9
+High-end desktop app UI design for [DESCRIBE THE APP]. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. centered or asymmetric composition with huge empty space, soft paper cards of 340 to 440 px, one ink bloom as anchor. ink pill buttons, 24px-radius fields, toggles with a faded red knob, thin sliders, half-erased numerals, one faded kanji stamp. Crisp readable text, Figma showcase. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen. --ar 16:9
 ```
 
 ### A02. Mobile UI (3 screens)
 *three phones side by side*
 
 ```
-Three phone mockups side by side showing [HOME, DETAIL, PROFILE] for [APP]. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. ink pill buttons, 24px-radius fields, toggles with a faded red knob, thin sliders, half-erased numerals, one faded kanji stamp. Real content only. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen. --ar 16:9
+Three phone mockups side by side showing [HOME, DETAIL, PROFILE] for [APP]. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. ink pill buttons, 24px-radius fields, toggles with a faded red knob, thin sliders, half-erased numerals, one faded kanji stamp. Real content only. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen. --ar 16:9
 ```
 
 ### A03. Landing page hero
 *top of a website*
 
 ```
-Landing page hero section for [PRODUCT]: huge headline "[TITLE]." with a trailing period, one subline, one primary button, one hero visual (a black sumi ink bloom with wisps spreading on still water). aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Browser frame not shown. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen. --ar 16:9
+Landing page hero section for [PRODUCT]: huge headline "[TITLE]." with a trailing period, one subline, one primary button, one hero visual (a black sumi ink bloom with wisps spreading on still water). aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Browser frame not shown. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen. --ar 16:9
 ```
 
 ### A04. Component sheet
 *buttons, fields, tags, toggles, toasts*
 
 ```
-UI component sheet on one canvas: buttons (default, hover, disabled, primary), text fields (default, focus, error), tags, toggle, slider, tabs, table rows, toast, modal. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Organized in a clean grid with small mono captions. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen. --ar 16:9
+UI component sheet on one canvas: buttons (default, hover, disabled, primary), text fields (default, focus, error), tags, toggle, slider, tabs, table rows, toast, modal. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Organized in a clean grid with small mono captions. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen. --ar 16:9
 ```
 
 ### A05. Design system poster (tokens board)
 *board with colors, typography and components*
 
 ```
-Design system poster: color swatches with hex values, typography shard, spacing scale, radius samples, iconography row, and 6 components. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Editorial layout, accent faded red (shu) (#A8473A) used once. --ar 4:5
+Design system poster: color swatches with hex values, typography shard, spacing scale, radius samples, iconography row, and 6 components. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Editorial layout, accent faded red (shu) (#A8473A) used once. --ar 4:5
 ```
 
 ### A06. Desktop wallpaper
 *4K wallpaper*
 
 ```
-Minimal desktop wallpaper. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Hero element: a single sheet of aged washi with a faded red kanji. At least 55% empty space. no readable text, no letters, no logos. --ar 16:9
+Minimal desktop wallpaper. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Hero element: a single sheet of aged washi with a faded red kanji. At least 55% empty space. no readable text, no letters, no logos. --ar 16:9
 ```
 
 ### A07. Mobile wallpaper
 *phone wallpaper*
 
 ```
-Minimal phone wallpaper with safe space for clock and icons. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Hero element placed at 38% height: a black sumi ink bloom with wisps spreading on still water. no readable text, no letters, no logos. --ar 9:19
+Minimal phone wallpaper with safe space for clock and icons. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Hero element placed at 38% height: a black sumi ink bloom with wisps spreading on still water. no readable text, no letters, no logos. --ar 9:19
 ```
 
 ### A08. Section background
 *site/slide background*
 
 ```
-Abstract section background. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. one real ink bloom with wisps, faint dot grid at 8% opacity, partly erased numerals, one faded red kanji. Very low contrast so text stays readable on top. no readable text, no letters, no logos. --ar 16:9
+Abstract section background. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. one real ink blot of wet liquid ink with a few droplets (not smoke), faint dot grid at 8% opacity, partly erased numerals, one faded red kanji. Very low contrast so text stays readable on top. no readable text, no letters, no logos. --ar 16:9
 ```
 
 ### A09. Seamless pattern / texture
 *seamless pattern*
 
 ```
-Seamless tileable pattern. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Elements: one real ink bloom with wisps, faint dot grid at 8% opacity, partly erased numerals, one faded red kanji. Flat vector, regular rhythm, low contrast, no readable text, no letters, no logos. --tile
+Seamless tileable pattern. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Elements: one real ink blot of wet liquid ink with a few droplets (not smoke), faint dot grid at 8% opacity, partly erased numerals, one faded red kanji. Flat vector, regular rhythm, low contrast, no readable text, no letters, no logos. --tile
 ```
 
 ### A10. Hero object (render)
 *central object for a hero*
 
 ```
-Studio render of a black sumi ink bloom with wisps spreading on still water as the single hero object. Materials: aged washi paper, sumi ink on water, faded red ink, rubbed graphite, pale unglazed ceramic. Lighting: soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Centered with huge negative space. no readable text, no letters, no logos. --ar 4:5
+Studio render of a black sumi ink bloom with wisps spreading on still water as the single hero object. Materials: aged washi paper, sumi ink on water, faded red ink, rubbed graphite, pale unglazed ceramic. Lighting: soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Centered with huge negative space. no readable text, no letters, no logos. --ar 4:5
 ```
 
 ### A11. Object variations
 *explore the hero object*
 
 ```
-Four variations of the hero object in a 2x2 grid: a black sumi ink bloom with wisps spreading on still water; a single sheet of aged washi with a faded red kanji; a pale ceramic bowl with a drop of black ink; a worn paper ledger with half-erased numbers. Same lighting and background, aged washi paper, sumi ink on water, faded red ink, rubbed graphite, pale unglazed ceramic. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. no readable text, no letters, no logos. --ar 1:1
+Four variations of the hero object in a 2x2 grid: a black sumi ink bloom with wisps spreading on still water; a single sheet of aged washi with a faded red kanji; a pale ceramic bowl with a drop of black ink; a worn paper ledger with half-erased numbers. Same lighting and background, aged washi paper, sumi ink on water, faded red ink, rubbed graphite, pale unglazed ceramic. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. no readable text, no letters, no logos. --ar 1:1
 ```
 
 ### A12. Product/device mockup
 *app inside a device*
 
 ```
-A laptop and a phone on a minimal surface displaying [APP UI]. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Soft realistic placement, soft flat overcast light on old paper, no hard shadows, slight vignette of age. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen. --ar 16:9
+A laptop and a phone on a minimal surface displaying [APP UI]. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Soft realistic placement, soft flat overcast light on old paper, no hard shadows, slight vignette of age. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen. --ar 16:9
 ```
 
 ### A13. Terminal / code
 *floating terminal window*
 
 ```
-Floating terminal window with syntax-highlighted code. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Accent faded red (shu) (#A8473A) for keywords only. Real code lines, no gibberish. --ar 16:9
+Floating terminal window with syntax-highlighted code. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Accent faded red (shu) (#A8473A) for keywords only. Real code lines, no gibberish. --ar 16:9
 ```
 
 ### A14. Architecture diagram
 *microservices, cloud, data*
 
 ```
-Abstract technical architecture of [CONCEPT] as modular nodes connected by thin lines, active path highlighted in faded red (shu) (#A8473A). aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Labels short and real. --ar 16:9
+Abstract technical architecture of [CONCEPT] as modular nodes connected by thin lines, active path highlighted in faded red (shu) (#A8473A). aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Labels short and real. --ar 16:9
 ```
 
 ### A15. Infographic / data visualization
 *editorial chart*
 
 ```
-Editorial data visualization about [TOPIC] with one highlighted series in faded red (shu) (#A8473A), thin axes, mono captions, one large number. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen. --ar 4:5
+Editorial data visualization about [TOPIC] with one highlighted series in faded red (shu) (#A8473A), thin axes, mono captions, one large number. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen. --ar 4:5
 ```
 
 ### A16. Abstract 3D scene
 *abstract hero*
 
 ```
-Abstract 3D scene: a black sumi ink bloom with wisps spreading on still water, a single sheet of aged washi with a faded red kanji, a pale ceramic bowl with a drop of black ink arranged in anti-gravity balance. aged washi paper, sumi ink on water, faded red ink, rubbed graphite, pale unglazed ceramic. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. no readable text, no letters, no logos. --ar 16:9
+Abstract 3D scene: a black sumi ink bloom with wisps spreading on still water, a single sheet of aged washi with a faded red kanji, a pale ceramic bowl with a drop of black ink arranged in anti-gravity balance. aged washi paper, sumi ink on water, faded red ink, rubbed graphite, pale unglazed ceramic. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. no readable text, no letters, no logos. --ar 16:9
 ```
 
 ### A17. Environment / architecture
 *atmospheric empty space*
 
 ```
-an empty tatami room at dawn, old paper screens. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Photorealistic, wide, symmetrical, no readable text, no letters, no logos. --ar 16:9
+an empty tatami room at dawn, old paper screens. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Photorealistic, wide, symmetrical, no readable text, no letters, no logos. --ar 16:9
 ```
 
 ### A18. Still-life photograph
 *object photo*
 
 ```
-Still-life photograph of a pale ceramic bowl with a drop of black ink on a plain surface. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Shallow depth of field, no readable text, no letters, no logos. --ar 4:5
+Still-life photograph of a pale ceramic bowl with a drop of black ink on a plain surface. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Shallow depth of field, no readable text, no letters, no logos. --ar 4:5
 ```
 
 ### A19. Poster
 *A3 poster*
 
 ```
-Poster for [EVENT/PRODUCT] with title "[TITLE]." in huge display type, one hero visual (a worn paper ledger with half-erased numbers), small caption lines. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 2:3
+Poster for [EVENT/PRODUCT] with title "[TITLE]." in huge display type, one hero visual (a worn paper ledger with half-erased numbers), small caption lines. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 2:3
 ```
 
 ### A20. Book/report cover
 *editorial cover*
 
 ```
-Book or report cover titled "[TITLE]." with subtitle "[SUBTITLE]". aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Strong typographic hierarchy, one image area. --ar 2:3
+Book or report cover titled "[TITLE]." with subtitle "[SUBTITLE]". aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Strong typographic hierarchy, one image area. --ar 2:3
 ```
 
 ### A21. Packaging / label
 *product label*
 
 ```
-Packaging label design for [PRODUCT]: wordmark, small data block, one icon. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Flat print-ready look. --ar 1:1
+Packaging label design for [PRODUCT]: wordmark, small data block, one icon. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Flat print-ready look. --ar 1:1
 ```
 
 ### A22. Title slide
 *presentation opener*
 
 ```
-Presentation title slide: "[TITLE]." large, one line subtitle, small footer with date. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 16:9
+Presentation title slide: "[TITLE]." large, one line subtitle, small footer with date. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 16:9
 ```
 
 ### A23. Content slide
 *slide with data*
 
 ```
-Presentation content slide with one headline, three short bullets, and one chart. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen. --ar 16:9
+Presentation content slide with one headline, three short bullets, and one chart. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen. --ar 16:9
 ```
 
 ---
@@ -210,35 +210,35 @@ App icons, sets, badges, logos and stickers.
 *1024 icon*
 
 ```
-App icon: a small black ink bloom with a plain faded red kanji on a very rounded paper square. Shape: super-rounded square (26% radius). aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Centered, flat vector clarity, subtle depth only if the style allows, no readable text, no letters, no logos. --ar 1:1
+App icon: a small black ink bloom with a plain faded red kanji on a very rounded paper square. Shape: super-rounded square (26% radius). aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Centered, flat vector clarity, subtle depth only if the style allows, no readable text, no letters, no logos. --ar 1:1
 ```
 
 ### B02. 4x4 icon set
 *16 coherent UI icons*
 
 ```
-A 4x4 grid of 16 UI icons (home, search, settings, user, chart, file, folder, bell, lock, calendar, mail, download, upload, trash, edit, star). Style: 1.25px round-cap stroke, slightly uneven, graphite on aged paper. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Uniform stroke, same optical size, generous padding, no readable text, no letters, no logos. --ar 1:1
+A 4x4 grid of 16 UI icons (home, search, settings, user, chart, file, folder, bell, lock, calendar, mail, download, upload, trash, edit, star). Style: 1.25px round-cap stroke, slightly uneven, graphite on aged paper. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Uniform stroke, same optical size, generous padding, no readable text, no letters, no logos. --ar 1:1
 ```
 
 ### B03. Project badge
 *badge for README/site*
 
 ```
-Circular or rectangular project badge with the word "[WORD]." and a small emblem. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Flat vector, high contrast. --ar 1:1
+Circular or rectangular project badge with the word "[WORD]." and a small emblem. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Flat vector, high contrast. --ar 1:1
 ```
 
 ### B04. Sticker pack
 *6 stickers*
 
 ```
-Sticker sheet with 6 stickers: a seal, a tag, an arrow, a dot, a small crest, a caption bubble. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. White-less die-cut look on the concept canvas, no readable text, no letters, no logos. --ar 1:1
+Sticker sheet with 6 stickers: a seal, a tag, an arrow, a dot, a small crest, a caption bubble. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. White-less die-cut look on the concept canvas, no readable text, no letters, no logos. --ar 1:1
 ```
 
 ### B05. Logo mark exploration
 *9 brand variations*
 
 ```
-A 3x3 grid exploring logo marks for "[NAME]". Concept: a small black ink bloom with a plain faded red kanji on a very rounded paper square. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Flat vector, monochrome with one accent, no readable text, no letters, no logos. --ar 1:1
+A 3x3 grid exploring logo marks for "[NAME]". Concept: a small black ink bloom with a plain faded red kanji on a very rounded paper square. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Flat vector, monochrome with one accent, no readable text, no letters, no logos. --ar 1:1
 ```
 
 ### B06. Wordmark
@@ -252,42 +252,42 @@ Wordmark "[NAME]." set in ultra-light Inter Tight 200 uppercase with trailing pe
 *readable at 16px*
 
 ```
-Favicon concept readable at 16 pixels: a small black ink bloom with a plain faded red kanji on a very rounded paper square, simplified to two shapes. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. --ar 1:1
+Favicon concept readable at 16 pixels: a small black ink bloom with a plain faded red kanji on a very rounded paper square, simplified to two shapes. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. --ar 1:1
 ```
 
 ### B08. Brand avatar
 *company profile picture*
 
 ```
-Circular brand avatar: a small black ink bloom with a plain faded red kanji on a very rounded paper square. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Strong silhouette at small size. --ar 1:1
+Circular brand avatar: a small black ink bloom with a plain faded red kanji on a very rounded paper square. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Strong silhouette at small size. --ar 1:1
 ```
 
 ### B09. Medal / achievement
 *achievement*
 
 ```
-Achievement medal "[ACHIEVEMENT NAME]" with five tiers shown in a row, tiers differ by shape complexity, not by color. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. --ar 3:1
+Achievement medal "[ACHIEVEMENT NAME]" with five tiers shown in a row, tiers differ by shape complexity, not by color. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. --ar 3:1
 ```
 
 ### B10. Category pictograms
 *category icons*
 
 ```
-Set of 8 category pictograms for [CATEGORIES]. Style: 1.25px round-cap stroke, slightly uneven, graphite on aged paper. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. no readable text, no letters, no logos. --ar 2:1
+Set of 8 category pictograms for [CATEGORIES]. Style: 1.25px round-cap stroke, slightly uneven, graphite on aged paper. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. no readable text, no letters, no logos. --ar 2:1
 ```
 
 ### B11. Reactions / concept emojis
 *chat reactions*
 
 ```
-Set of 8 reaction icons (ok, wow, think, heart, laugh, sad, fire, quiet) in the concept style: 1.25px round-cap stroke, slightly uneven, graphite on aged paper. No faces with color, aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. --ar 2:1
+Set of 8 reaction icons (ok, wow, think, heart, laugh, sad, fire, quiet) in the concept style: 1.25px round-cap stroke, slightly uneven, graphite on aged paper. No faces with color, aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. --ar 2:1
 ```
 
 ### B12. 3D/hero icon for landing
 *large illustrative icon*
 
 ```
-Large hero icon for [FEATURE]: a black sumi ink bloom with wisps spreading on still water rendered with aged washi paper, sumi ink on water, faded red ink, rubbed graphite, pale unglazed ceramic. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. no readable text, no letters, no logos. --ar 1:1
+Large hero icon for [FEATURE]: a black sumi ink bloom with wisps spreading on still water rendered with aged washi paper, sumi ink on water, faded red ink, rubbed graphite, pale unglazed ceramic. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. no readable text, no letters, no logos. --ar 1:1
 ```
 
 ---
@@ -300,119 +300,119 @@ Covers and headers per platform. For exact text, generate without text and compo
 *cover with text*
 
 ```
-Wide banner with the title "[TITLE]." in ultra-light Inter Tight 200 uppercase with trailing period and wide tracking, lowercase gentle body copy, tiny monospace caps labels, real kanji set in Shippori Mincho. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. One hero element, one caption line. The title must read exactly as written. --ar 3:1
+Wide banner with the title "[TITLE]." in ultra-light Inter Tight 200 uppercase with trailing period and wide tracking, lowercase gentle body copy, tiny monospace caps labels, real kanji set in Shippori Mincho. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. One hero element, one caption line. The title must read exactly as written. --ar 3:1
 ```
 
 ### C02. Banner without text
 *pure art that receives text from code*
 
 ```
-Abstract hero banner with a black sumi ink bloom with wisps spreading on still water on the right third, left two thirds empty for text. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. no readable text, no letters, no logos. --ar 3:1
+Abstract hero banner with a black sumi ink bloom with wisps spreading on still water on the right third, left two thirds empty for text. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. no readable text, no letters, no logos. --ar 3:1
 ```
 
 ### C03. X/Twitter header
 *1500×500*
 
 ```
-Social header 3:1. Title area on the left, hero on the right, avatar safe zone bottom-left empty. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 3:1
+Social header 3:1. Title area on the left, hero on the right, avatar safe zone bottom-left empty. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 3:1
 ```
 
 ### C04. LinkedIn cover
 *1584×396*
 
 ```
-LinkedIn cover, very wide 4:1. Text area on the right of the avatar zone, one subtle hero element. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 4:1
+LinkedIn cover, very wide 4:1. Text area on the right of the avatar zone, one subtle hero element. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 4:1
 ```
 
 ### C05. YouTube thumbnail
 *1280×720*
 
 ```
-YouTube thumbnail: huge title "[SHORT TITLE]" (max 3 words), one hero visual, strong contrast, faded red (shu) (#A8473A) used on one word only. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 16:9
+YouTube thumbnail: huge title "[SHORT TITLE]" (max 3 words), one hero visual, strong contrast, faded red (shu) (#A8473A) used on one word only. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 16:9
 ```
 
 ### C06. YouTube channel banner
 *2560×1440 with safe area*
 
 ```
-YouTube channel banner with a central safe area 1546x423: logo and tagline inside, ornaments only outside. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 16:9
+YouTube channel banner with a central safe area 1546x423: logo and tagline inside, ornaments only outside. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 16:9
 ```
 
 ### C07. README / GitHub header
 *1280×640*
 
 ```
-GitHub repository social preview: project name "[NAME]." large, one-line description, stack tags. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 2:1
+GitHub repository social preview: project name "[NAME]." large, one-line description, stack tags. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 2:1
 ```
 
 ### C08. Open Graph / link preview
 *1200×630*
 
 ```
-Open Graph image for an article titled "[TITLE]." with the site wordmark small in a corner. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 1.91:1
+Open Graph image for an article titled "[TITLE]." with the site wordmark small in a corner. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 1.91:1
 ```
 
 ### C09. Newsletter header
 *email top*
 
 ```
-Newsletter header 600x200: issue number [#07], title "[NEWSLETTER NAME].", small tagline. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 3:1
+Newsletter header 600x200: issue number [#07], title "[NEWSLETTER NAME].", small tagline. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 3:1
 ```
 
 ### C10. Carousel: cover
 *carousel slide 1*
 
 ```
-Carousel cover 4:5: huge hook "[HOOK]." and a "swipe" hint as a small mono caption. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing.
+Carousel cover 4:5: huge hook "[HOOK]." and a "swipe" hint as a small mono caption. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing.
 ```
 
 ### C11. Carousel: inner slide
 *slides 2 to N*
 
 ```
-Carousel inner slide 4:5: one number, one sentence, one small icon. Consistent margins. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing.
+Carousel inner slide 4:5: one number, one sentence, one small icon. Consistent margins. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing.
 ```
 
 ### C12. Story / reels cover
 *1080×1920*
 
 ```
-Vertical story cover: title "[TITLE]." in the middle safe zone, top and bottom 250px empty. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 9:16
+Vertical story cover: title "[TITLE]." in the middle safe zone, top and bottom 250px empty. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 9:16
 ```
 
 ### C13. Podcast cover
 *3000×3000*
 
 ```
-Podcast cover: show name "[NAME]." large, episode tag small, one iconic hero element. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Readable at 100px. --ar 1:1
+Podcast cover: show name "[NAME]." large, episode tag small, one iconic hero element. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Readable at 100px. --ar 1:1
 ```
 
 ### C14. Album / playlist cover
 *music art*
 
 ```
-Album art for "[TITLE]": a single sheet of aged washi with a faded red kanji as the only subject, tiny typographic credit line. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 1:1
+Album art for "[TITLE]": a single sheet of aged washi with a faded red kanji as the only subject, tiny typographic credit line. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 1:1
 ```
 
 ### C15. Event poster / ticket
 *event*
 
 ```
-Event poster and matching ticket for "[EVENT]" on [DATE]. Big title with period, hero visual, data block in mono. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 2:3
+Event poster and matching ticket for "[EVENT]" on [DATE]. Big title with period, hero visual, data block in mono. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 2:3
 ```
 
 ### C16. Email signature
 *small banner*
 
 ```
-Email signature banner 600x120: wordmark, one line contact, thin hairline, tiny icon. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 5:1
+Email signature banner 600x120: wordmark, one line contact, thin hairline, tiny icon. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 5:1
 ```
 
 ### C17. Stream overlay
 *Twitch/YouTube live*
 
 ```
-Streaming overlay set: webcam frame, alert box, lower third, "starting soon" screen. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Transparent-friendly layout, real labels. --ar 16:9
+Streaming overlay set: webcam frame, alert box, lower third, "starting soon" screen. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Transparent-friendly layout, real labels. --ar 16:9
 ```
 
 ---
@@ -425,28 +425,28 @@ Always use fictional people. Never ask for the likeness of a real person or a ce
 *profile / team photo*
 
 ```
-Professional headshot of [FICTIONAL PERSON DESCRIPTION]. a calm person photographed from the side or back, soft overcast light, desaturated neutral clothing, large empty pale room with aged paper walls, very quiet mood. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Sharp eyes, natural skin texture, no readable text, no letters, no logos. --ar 4:5
+Professional headshot of [FICTIONAL PERSON DESCRIPTION]. a calm person photographed from the side or back, soft overcast light, desaturated neutral clothing, large empty pale room with aged paper walls, very quiet mood. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Sharp eyes, natural skin texture, no readable text, no letters, no logos. --ar 4:5
 ```
 
 ### D02. Editorial portrait / collage
 *conceptual cover*
 
 ```
-Editorial surreal portrait of [PERSON/ACTION]. a calm person photographed from the side or back, soft overcast light, desaturated neutral clothing, large empty pale room with aged paper walls, very quiet mood. Deconstructed into floating modules with one real ink bloom with wisps, faint dot grid at 8% opacity, partly erased numerals, one faded red kanji. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 4:5
+Editorial surreal portrait of [PERSON/ACTION]. a calm person photographed from the side or back, soft overcast light, desaturated neutral clothing, large empty pale room with aged paper walls, very quiet mood. Deconstructed into floating modules with one real ink blot of wet liquid ink with a few droplets (not smoke), faint dot grid at 8% opacity, partly erased numerals, one faded red kanji. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 4:5
 ```
 
 ### D03. "About me" header
 *personal banner*
 
 ```
-Wide "about me" header: a person on the right third, left two thirds empty for text. a calm person photographed from the side or back, soft overcast light, desaturated neutral clothing, large empty pale room with aged paper walls, very quiet mood. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. no readable text, no letters, no logos. --ar 3:1
+Wide "about me" header: a person on the right third, left two thirds empty for text. a calm person photographed from the side or back, soft overcast light, desaturated neutral clothing, large empty pale room with aged paper walls, very quiet mood. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. no readable text, no letters, no logos. --ar 3:1
 ```
 
 ### D04. Character (key art)
 *character illustration*
 
 ```
-Key art of a serene character in simple off-white clothing seated in an empty paper-screen room, anime-inspired but gentle and desaturated, ink wash shading, one faded red kanji mark in the corner. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Cinematic but restrained composition, full figure, no readable text, no letters, no logos. --ar 16:9
+Key art of a serene character in simple off-white clothing seated in an empty paper-screen room, anime-inspired but gentle and desaturated, ink wash shading, one faded red kanji mark in the corner. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Cinematic but restrained composition, full figure, no readable text, no letters, no logos. --ar 16:9
 ```
 
 ### D05. Character sheet
@@ -460,28 +460,28 @@ Character sheet for a serene character in simple off-white clothing seated in an
 *team photo*
 
 ```
-two or three people sitting far apart in a pale room, each small, quiet, soft light, an ink bloom on the floor. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Natural poses, distinct faces, no readable text, no letters, no logos. --ar 16:9
+two or three people sitting far apart in a pale room, each small, quiet, soft light, an ink bloom on the floor. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Natural poses, distinct faces, no readable text, no letters, no logos. --ar 16:9
 ```
 
 ### D07. Person using the product
 *lifestyle*
 
 ```
-A person using [PRODUCT/APP] on a laptop, shown from behind or at a three-quarter angle. a tiny person in a vast aged-paper space, a single black ink bloom nearby, ultra minimal. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. --ar 3:2
+A person using [PRODUCT/APP] on a laptop, shown from behind or at a three-quarter angle. a tiny person in a vast aged-paper space, a single black ink bloom nearby, ultra minimal. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. --ar 3:2
 ```
 
 ### D08. Hand + object (detail)
 *hand close-up*
 
 ```
-Close-up of a hand holding a black sumi ink bloom with wisps spreading on still water. Natural hand anatomy with five fingers, aged washi paper, sumi ink on water, faded red ink, rubbed graphite, pale unglazed ceramic, soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. no readable text, no letters, no logos. --ar 4:5
+Close-up of a hand holding a black sumi ink bloom with wisps spreading on still water. Natural hand anatomy with five fingers, aged washi paper, sumi ink on water, faded red ink, rubbed graphite, pale unglazed ceramic, soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. no readable text, no letters, no logos. --ar 4:5
 ```
 
 ### D09. Small figure in the scene
 *scale and silence*
 
 ```
-a tiny person in a vast aged-paper space, a single black ink bloom nearby, ultra minimal. a quiet desk with a single sheet of aged paper and an ink stone. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Wide frame, no readable text, no letters, no logos. --ar 16:9
+a tiny person in a vast aged-paper space, a single black ink bloom nearby, ultra minimal. a quiet desk with a single sheet of aged paper and an ink stone. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Wide frame, no readable text, no letters, no logos. --ar 16:9
 ```
 
 ### D10. Illustrated profile avatar
@@ -495,21 +495,21 @@ Illustrated profile avatar bust of a fictional [CHARACTER]. a serene character i
 *event key art*
 
 ```
-Event key art with a serene character in simple off-white clothing seated in an empty paper-screen room, anime-inspired but gentle and desaturated, ink wash shading, one faded red kanji mark in the corner, a hero object (a black sumi ink bloom with wisps spreading on still water) and a title area. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Premium, serious, no readable text, no letters, no logos. --ar 16:9
+Event key art with a serene character in simple off-white clothing seated in an empty paper-screen room, anime-inspired but gentle and desaturated, ink wash shading, one faded red kanji mark in the corner, a hero object (a black sumi ink bloom with wisps spreading on still water) and a title area. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Premium, serious, no readable text, no letters, no logos. --ar 16:9
 ```
 
 ### D12. Fashion editorial / lookbook
 *wardrobe*
 
 ```
-Lookbook photograph of a fictional model in [WARDROBE]. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Minimal set, strong silhouette, no readable text, no letters, no logos. --ar 4:5
+Lookbook photograph of a fictional model in [WARDROBE]. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Minimal set, strong silhouette, no readable text, no letters, no logos. --ar 4:5
 ```
 
 ### D13. Testimonial (customer)
 *testimonial card*
 
 ```
-Testimonial card: portrait of a fictional customer, a short quote in real words, name and role in mono. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 4:5
+Testimonial card: portrait of a fictional customer, a short quote in real words, name and role in mono. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. --ar 4:5
 ```
 
 ---
@@ -522,7 +522,7 @@ Attach the image and paste the prompt. Works in Gemini, ChatGPT (image), Flux Ko
 *bring a photo/art into the concept*
 
 ```
-Edit this image: restyle it fully into the concept while keeping the composition and subject. Apply aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Materials: aged washi paper, sumi ink on water, faded red ink, rubbed graphite, pale unglazed ceramic. Lighting: soft flat overcast light on old paper, no hard shadows, slight vignette of age. Add one real ink bloom with wisps, faint dot grid at 8% opacity, partly erased numerals, one faded red kanji sparingly. Do not change faces or proportions.
+Edit this image: restyle it fully into the concept while keeping the composition and subject. Apply aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Materials: aged washi paper, sumi ink on water, faded red ink, rubbed graphite, pale unglazed ceramic. Lighting: soft flat overcast light on old paper, no hard shadows, slight vignette of age. Add one real ink blot of wet liquid ink with a few droplets (not smoke), faint dot grid at 8% opacity, partly erased numerals, one faded red kanji sparingly. Do not change faces or proportions.
 ```
 
 ### E02. Palette color grade
@@ -550,14 +550,14 @@ Edit this image: remove the background cleanly and place the subject on a plain 
 *brand overlays*
 
 ```
-Edit this image: add one real ink bloom with wisps, faint dot grid at 8% opacity, partly erased numerals, one faded red kanji as subtle overlays, aligned to the grid, at low opacity, without covering the subject.
+Edit this image: add one real ink blot of wet liquid ink with a few droplets (not smoke), faint dot grid at 8% opacity, partly erased numerals, one faded red kanji as subtle overlays, aligned to the grid, at low opacity, without covering the subject.
 ```
 
 ### E06. Extend (outpaint) to banner
 *turn it into 3:1*
 
 ```
-Extend this image to a 3:1 banner by outpainting to the left, keeping the subject on the right third and filling the left with clean negative space in the concept style (aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly).
+Extend this image to a 3:1 banner by outpainting to the left, keeping the subject on the right third and filling the left with clean negative space in the concept style (aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly).
 ```
 
 ### E07. Upscale and cleanup
@@ -585,7 +585,7 @@ Edit this image: remove [OBJECT] and fill the area consistently with the surroun
 *clothing*
 
 ```
-Edit this image: change the clothing to [NEW WARDROBE] in concept colors (aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly). Keep face, pose and lighting identical.
+Edit this image: change the clothing to [NEW WARDROBE] in concept colors (aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly). Keep face, pose and lighting identical.
 ```
 
 ### E11. Relight (concept lighting)
@@ -599,14 +599,14 @@ Edit this image: relight the scene with soft flat overcast light on old paper, n
 *screen redesign*
 
 ```
-Redesign this screenshot in the concept. Keep the same information architecture and real text, but apply aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly; centered or asymmetric composition with huge empty space, soft paper cards of 340 to 440 px, one ink bloom as anchor; ink pill buttons, 24px-radius fields, toggles with a faded red knob, thin sliders, half-erased numerals, one faded kanji stamp. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen.
+Redesign this screenshot in the concept. Keep the same information architecture and real text, but apply aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly; centered or asymmetric composition with huge empty space, soft paper cards of 340 to 440 px, one ink bloom as anchor; ink pill buttons, 24px-radius fields, toggles with a faded red knob, thin sliders, half-erased numerals, one faded kanji stamp. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen.
 ```
 
 ### E13. Wireframe/sketch → UI
 *sketch to screen*
 
 ```
-Turn this sketch into a polished UI screen. Follow the layout exactly. Style: aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Replace placeholders with real content. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen.
+Turn this sketch into a polished UI screen. Follow the layout exactly. Style: aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Replace placeholders with real content. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen.
 ```
 
 ### E14. Product photo → hero
@@ -662,14 +662,14 @@ Using the mask, replace only the masked area with [DESCRIPTION]. Match grain, li
 *explore*
 
 ```
-Create 4 variations of this image keeping the layout and subject, varying only: one real ink bloom with wisps, accent placement, and background tone within the palette.
+Create 4 variations of this image keeping the layout and subject, varying only: one real ink blot of wet liquid ink with a few droplets (not smoke), accent placement, and background tone within the palette.
 ```
 
 ### E22. Turn into an illustration
 *photo → art*
 
 ```
-Convert this photograph into a painterly illustration in the concept style, preserving pose and likeness of a fictional subject, aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly, soft flat overcast light on old paper, no hard shadows, slight vignette of age.
+Convert this photograph into a painterly illustration in the concept style, preserving pose and likeness of a fictional subject, aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly, soft flat overcast light on old paper, no hard shadows, slight vignette of age.
 ```
 
 ---
@@ -682,7 +682,7 @@ Veo, Sora, Runway, Kling, Luma, Pika and similar. Ask for short scenes (3–8 s)
 *brand opener*
 
 ```
-A 4-second logo sting. a small black ink bloom with a plain faded red kanji on a very rounded paper square appears on warm sumi black (#1C1B19). Motion: sumi ink spreads slowly in concentric bands while numerals fade out digit by digit and a faded kanji appears once. Camera: very slow push-in or static, soft focus pulls, ink drifting across the frame. Transitions: long dissolves and blur-to-sharp reveals, no hard cuts. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. no readable text, no letters, no logos. 24 fps with generous motion blur.
+A 4-second logo sting. a small black ink bloom with a plain faded red kanji on a very rounded paper square appears on warm sumi black (#1C1B19). Motion: sumi ink spreads slowly in concentric bands while numerals fade out digit by digit and a faded kanji appears once. Camera: very slow push-in or static, soft focus pulls, ink drifting across the frame. Transitions: long dissolves and blur-to-sharp reveals, no hard cuts. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. no readable text, no letters, no logos. 24 fps with generous motion blur.
 ```
 
 > Then overlay the real wordmark in the editor/Remotion.
@@ -691,49 +691,49 @@ A 4-second logo sting. a small black ink bloom with a plain faded red kanji on a
 *animated background*
 
 ```
-Seamless 8-second looping background. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Slow ambient motion only: breathing rhythm of 6.4 seconds, one tiny event at a time. Camera: very slow push-in or static, soft focus pulls, ink drifting across the frame. no readable text, no letters, no logos. Last frame equals first frame. 24 fps with generous motion blur.
+Seamless 8-second looping background. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Slow ambient motion only: breathing rhythm of 6.4 seconds, one tiny event at a time. Camera: very slow push-in or static, soft focus pulls, ink drifting across the frame. no readable text, no letters, no logos. Last frame equals first frame. 24 fps with generous motion blur.
 ```
 
 ### F03. Object orbit
 *360 hero*
 
 ```
-A slow 360-degree orbit around a black sumi ink bloom with wisps spreading on still water on a plinth. Materials: aged washi paper, sumi ink on water, faded red ink, rubbed graphite, pale unglazed ceramic. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Smooth constant speed, no readable text, no letters, no logos, 24 fps with generous motion blur.
+A slow 360-degree orbit around a black sumi ink bloom with wisps spreading on still water on a plinth. Materials: aged washi paper, sumi ink on water, faded red ink, rubbed graphite, pale unglazed ceramic. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. Smooth constant speed, no readable text, no letters, no logos, 24 fps with generous motion blur.
 ```
 
 ### F04. Animated UI screen
 *stylized screen recording*
 
 ```
-A designed UI screen for [APP] coming to life: cards enter in sequence, numbers count up, one state change at the end. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Motion style: long dissolves and blur-to-sharp reveals, no hard cuts; slow ease-in-out. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen. 24 fps with generous motion blur.
+A designed UI screen for [APP] coming to life: cards enter in sequence, numbers count up, one state change at the end. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Motion style: long dissolves and blur-to-sharp reveals, no hard cuts; slow ease-in-out. Every visible word must be real content. Never print design-system labels, hex codes or style words on screen. 24 fps with generous motion blur.
 ```
 
 ### F05. Transition (1–2 s)
 *wipe between scenes*
 
 ```
-A 1.5-second transition on warm sumi black (#1C1B19): long dissolves and blur-to-sharp reveals, no hard cuts. Uses one real ink bloom with wisps, faint dot grid at 8% opacity, partly erased numerals, one faded red kanji. Ends on a clean frame. no readable text, no letters, no logos.
+A 1.5-second transition on warm sumi black (#1C1B19): long dissolves and blur-to-sharp reveals, no hard cuts. Uses one real ink blot of wet liquid ink with a few droplets (not smoke), faint dot grid at 8% opacity, partly erased numerals, one faded red kanji. Ends on a clean frame. no readable text, no letters, no logos.
 ```
 
 ### F06. Title card
 *title card*
 
 ```
-A 5-second title card: the text "[TITLE]." appears exactly as written in ultra-light Inter Tight 200 uppercase with trailing period and wide tracking, lowercase gentle body copy, tiny monospace caps labels, real kanji set in Shippori Mincho. sumi ink spreads slowly in concentric bands while numerals fade out digit by digit and a faded kanji appears once. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly.
+A 5-second title card: the text "[TITLE]." appears exactly as written in ultra-light Inter Tight 200 uppercase with trailing period and wide tracking, lowercase gentle body copy, tiny monospace caps labels, real kanji set in Shippori Mincho. sumi ink spreads slowly in concentric bands while numerals fade out digit by digit and a faded kanji appears once. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly.
 ```
 
 ### F07. Channel intro (5–7 s)
 *vignette bumper*
 
 ```
-A 6-second channel intro: a black sumi ink bloom with wisps spreading on still water reveals, then the wordmark "[NAME]." settles. Camera: very slow push-in or static, soft focus pulls, ink drifting across the frame. breathing rhythm of 6.4 seconds, one tiny event at a time. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. 24 fps with generous motion blur.
+A 6-second channel intro: a black sumi ink bloom with wisps spreading on still water reveals, then the wordmark "[NAME]." settles. Camera: very slow push-in or static, soft focus pulls, ink drifting across the frame. breathing rhythm of 6.4 seconds, one tiny event at a time. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. 24 fps with generous motion blur.
 ```
 
 ### F08. Abstract B-roll
 *supporting footage*
 
 ```
-Abstract b-roll, 6 seconds: a black sumi ink bloom with wisps spreading on still water and a single sheet of aged washi with a faded red kanji moving slowly in a void. Materials: aged washi paper, sumi ink on water, faded red ink, rubbed graphite, pale unglazed ceramic. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. no readable text, no letters, no logos.
+Abstract b-roll, 6 seconds: a black sumi ink bloom with wisps spreading on still water and a single sheet of aged washi with a faded red kanji moving slowly in a void. Materials: aged washi paper, sumi ink on water, faded red ink, rubbed graphite, pale unglazed ceramic. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. no readable text, no letters, no logos.
 ```
 
 ### F09. Image → video (subtle)
@@ -754,28 +754,28 @@ Animate the provided character portrait: gentle breathing, slow blink, a slight 
 *name on screen*
 
 ```
-A lower-third graphic for "[NAME]" and "[ROLE]" on a transparent-looking dark band. Style: wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink bloom with wisps and tendrils spreading on wet paper, organic and uneven, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Animation: long dissolves and blur-to-sharp reveals, no hard cuts. 4 seconds, readable text exactly as written.
+A lower-third graphic for "[NAME]" and "[ROLE]" on a transparent-looking dark band. Style: wabi-sabi suminagashi interface, aged off-white washi paper with visible fibre and soft stains, a real black sumi ink blot: wet liquid ink absorbed into the paper, an organic puddle with a hard bleeding edge and a few small droplets, never smoke, vapor, mist or flowing wisps, never concentric rings, numbers and lines partly rubbed away, slightly crooked hand-drawn lines, a faded red kanji, cards with 40px rounded corners and a 1px hairline, only a tiny contact shadow, NO large blurry shadows, thin light-weight typography, huge empty space, peaceful and quietly uncomfortable, the feeling of time passing. Animation: long dissolves and blur-to-sharp reveals, no hard cuts. 4 seconds, readable text exactly as written.
 ```
 
 ### F12. Cinemagraph
 *photo with one movement*
 
 ```
-Cinemagraph from the provided image: everything frozen except one real ink bloom with wisps and the accent faded red (shu) (#A8473A), looping seamlessly in 3 seconds.
+Cinemagraph from the provided image: everything frozen except one real ink blot of wet liquid ink with a few droplets (not smoke) and the accent faded red (shu) (#A8473A), looping seamlessly in 3 seconds.
 ```
 
 ### F13. Environment / timelapse
 *atmospheric scene*
 
 ```
-a pale plaster wall with water stains and a single scroll. A slow 10-second ambient shot. very slow push-in or static, soft focus pulls, ink drifting across the frame. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. no readable text, no letters, no logos.
+a pale plaster wall with water stains and a single scroll. A slow 10-second ambient shot. very slow push-in or static, soft focus pulls, ink drifting across the frame. soft flat overcast light on old paper, no hard shadows, slight vignette of age. aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. no readable text, no letters, no logos.
 ```
 
 ### F14. Trailer storyboard (15 s)
 *shot list to generate in parts*
 
 ```
-Write a 5-shot storyboard for a 15-second trailer of [PRODUCT]. For each shot: duration, camera, subject, motion, transition, on-screen text. Style rules: long dissolves and blur-to-sharp reveals, no hard cuts; breathing rhythm of 6.4 seconds, one tiny event at a time; palette aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. End with the logo sting.
+Write a 5-shot storyboard for a 15-second trailer of [PRODUCT]. For each shot: duration, camera, subject, motion, transition, on-screen text. Style rules: long dissolves and blur-to-sharp reveals, no hard cuts; breathing rhythm of 6.4 seconds, one tiny event at a time; palette aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly. End with the logo sting.
 ```
 
 > Generate each shot separately and join them in the editor.
@@ -811,7 +811,7 @@ Subtitle style: ultra-light Inter Tight 200 uppercase with trailing period and w
 *graphics on the timeline*
 
 ```
-Create titles and lower thirds using ultra-light Inter Tight 200 uppercase with trailing period and wide tracking, lowercase gentle body copy, tiny monospace caps labels, real kanji set in Shippori Mincho. Enter animation: long dissolves and blur-to-sharp reveals, no hard cuts. Duration 4 s. Safe margins 5%. Colors: aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly.
+Create titles and lower thirds using ultra-light Inter Tight 200 uppercase with trailing period and wide tracking, lowercase gentle body copy, tiny monospace caps labels, real kanji set in Shippori Mincho. Enter animation: long dissolves and blur-to-sharp reveals, no hard cuts. Duration 4 s. Safe margins 5%. Colors: aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly.
 ```
 
 ### G05. Transitions
@@ -1085,7 +1085,7 @@ Create a [TYPE] chart for [DATE] following the dataviz rules of SHIZUKA.md secti
 *email template*
 
 ```
-Build a 600px table-based HTML email with inline styles using the concept palette (aged washi paper (#E4DFD0) with fibre grain and darker burnt edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly), web-safe fallbacks for fonts, a header banner slot, one CTA button and a footer.
+Build a 600px table-based HTML email with inline styles using the concept palette (aged washi paper (#E4DFD0) with fibre grain, evenly lit, no burnt or darkened edges, lighter paper cards (#ECE7D9), sumi ink black (#1C1B19), faded greys, and ONE small faded red kanji (#A8473A) printed plainly), web-safe fallbacks for fonts, a header banner slot, one CTA button and a footer.
 ```
 
 ### J09. Accessibility
@@ -1136,7 +1136,7 @@ Create the Remotion composition [NAME] following SHIZUKA.md section 13. Props: p
 | Poster, cover | 2:3 |
 
 ### Negatives (always paste)
-`concentric rings, target-like circles, hanko seals, stamp boxes, large drop shadows, neumorphism, saturated or neon colors, chrome, glossy 3D, emoji, clutter, heavy fonts, perfectly clean flat paper, Y2K distortion, gibberish text, fake kanji, prompt words printed on screen`
+`smoke, vapor, mist, clouds, flowing wisps, tendrils, burnt or darkened paper edges, sepia or paper tint over people, concentric rings, target-like circles, hanko seals, stamp boxes, large drop shadows, neumorphism, saturated or neon colors, chrome, glossy 3D, emoji, clutter, heavy fonts, perfectly clean flat paper, Y2K distortion, gibberish text, fake kanji, prompt words printed on screen`
 
 ### Rules for every prompt
 1. **Always hex.** Repeat the same hex values in every prompt of the concept.

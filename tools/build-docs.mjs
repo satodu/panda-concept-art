@@ -17,7 +17,7 @@ const C = {
   'oriental-brutalismo': {
     name: 'Oriental Brutalismo', master: 'ORIENTAL BRUTALISMO.md', t: tokens('oriental-brutalismo'),
     bgs: [['canvas', 'color.black'], ['surface1', 'color.surface1']], dark: 'black', light: 'onPrimary',
-    variants: [['vermilion (default)', '#E63946'], ['amber', '#F59E0B'], ['acid', '#D4FF00']],
+    variants: [['magenta (default)', '#980281'], ['amber', '#F59E0B'], ['acid', '#D4FF00']],
     blackWhite: [['black', 'canvas, general background', 'bluish charcoal'], ['white', 'text, lines, title', 'cold bone']],
     tint: 'Black and white with a slight cold-blue cast. Any "darker" uses `rgba(9,10,15,α)`; "lighter" uses `#eeeee6`.',
     swapNote: 'The primary changes the button, the title full stop, the Hanko seal, active status, highlight bar, toggle on and active tag. Nothing else.',
@@ -101,7 +101,7 @@ for (const [slug, c] of Object.entries(C)) {
 | Default primary | \`${col.primary}\` |
 | Token | \`color.primary\` (CSS: \`--color-primary\`) |
 | Derived | \`primarySoft\`, \`primaryGlow\`, \`onPrimary\` |
-| What it changes | ${c.swapNote} |
+| What it changes | ${c.swapNote} |${slug === 'oriental-brutalismo' ? '\n| Free use | Any primary color is allowed. `' + col.primary + '` is the Oriental Brutalismo primary and the default of every token, composition and asset. |' : ''}
 
 ## 2. Approved variations (computed contrast)
 
@@ -416,7 +416,7 @@ Import the file in the extension and apply it to the styles. To regenerate the C
 // ---------- 15: Oriental ----------
 writeFileSync(join(root, 'oriental-brutalismo', 'docs', '15-differentiation.md'), `# 15. Differentiation: what makes Oriental Brutalismo its own
 
-This system uses a language that other dark oriental systems also use (vermilion, hairline, kanji, seal). For it to be recognized as **yours**, keep what is only its own and avoid what belongs to others.
+This system uses a language that other dark oriental systems also use (magenta, hairline, kanji, seal). For it to be recognized as **yours**, keep what is only its own and avoid what belongs to others.
 
 ## Own decisions (keep)
 
@@ -427,7 +427,7 @@ This system uses a language that other dark oriental systems also use (vermilion
 | Typography | **Archivo Black** + Space Grotesk + JetBrains Mono |
 | Depth | tonal layer + hairline (no shadow) |
 | Seal | **間 / 禅** in a 2×2 grid |
-| Color | **swappable** primary (vermilion, amber, acid) |
+| Color | **swappable** primary (magenta, amber, acid) |
 | Tone | system/devtools, dry voice in English with a full stop |
 | Labels | \`In.\` \`Git.\` \`#01\` \`[ 0.1.0 ]\` |
 | Motion | hard wipes, kanji with camera shake |

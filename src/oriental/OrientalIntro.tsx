@@ -54,11 +54,11 @@ export const OrientalIntro: React.FC<PrimaryProps> = ({primary}) => {
         </div>
 
         <div style={{position: 'absolute', left: 100, top: 520, fontFamily: F.body, fontSize: 38, color: C.textMuted, width: 880, lineHeight: 1.35, clipPath: wipeX(progress(frame, 34, 52))}}>
-          Japanese editorial brutalism. Bento, 'Ma' and a single red.
+          Japanese editorial brutalism. Bento, 'Ma' and a single primary color.
         </div>
 
         <div style={{position: 'absolute', left: 96, top: 800, display: 'flex', gap: 14, clipPath: wipeX(progress(frame, 80, 96))}}>
-          <Tag accent>#E63946</Tag>
+          <Tag accent>#980281</Tag>
           <Tag>Archivo Black</Tag>
           <Tag>Space Grotesk</Tag>
           <Tag>JetBrains Mono</Tag>

@@ -19,7 +19,7 @@
 
 1. `canvas` background with dot matrix.
 2. 1px `hairline` inner frame (inset 18px, radius 18px).
-3. Display title (uppercase) with a **red dot**.
+3. Display title (uppercase) with a **magenta dot**.
 4. Mono subtitle in `textMuted`.
 5. Tags (`In.`, `Git.`, `#01`).
 6. Tategaki column (optional).
@@ -43,10 +43,10 @@ node tools/make-asset.mjs --concept oriental-brutalismo --type banner --size 120
 
 - **Repository:** 1280×640, title + stack in tags.
 - **Article:** title on the left, issue number (`#07`) in mono, small Hanko.
-- **Album/playlist:** square, giant glyph in Archivo Black, red full stop.
+- **Album/playlist:** square, giant glyph in Archivo Black, magenta full stop.
 
 ## Slides
 
 - One topic per slide. Title on the left, 60% empty.
 - Numbering in mono (`01 / 12`).
-- `canvas` background; only one slide with a big red highlight.
+- `canvas` background; only one slide with a big magenta highlight.

@@ -13,12 +13,12 @@ Single source: `../tokens/tokens.json`. The matching CSS is in `../tokens/tokens
 | `textMuted` | `#7e8790` | secondary text, metadata |
 | `hairline` | `rgba(222,223,215,0.08)` | 1px structural border |
 | `hairlineStrong` | `rgba(222,223,215,0.20)` | hover border, strong dividers |
-| `primary` | `#E63946` | **only** highlight (vermilion/Hanko) |
-| `primarySoft` | `rgba(230,57,70,0.12)` | translucent background for seals and badges |
+| `primary` | `#980281` | **only** highlight (magenta/Hanko) |
+| `primarySoft` | `rgba(152,2,129,0.12)` | translucent background for seals and badges |
 
 ### Primary color rule
 
-At most **one red focus per screen**, plus small status dots. Valid uses: the title full stop, Hanko seal, active badge, primary button, technical underline. Never for section backgrounds or long text.
+At most **one magenta focus per screen**, plus small status dots. Valid uses: the title full stop, Hanko seal, active badge, primary button, technical underline. Never for section backgrounds or long text.
 
 ## Typography
 
@@ -69,7 +69,7 @@ export default {
         canvas: '#090a0f',
         surface: {1: '#14171f', 2: '#1c242c'},
         ink: {DEFAULT: '#dedfd7', muted: '#7e8790'},
-        hanko: '#E63946',
+        hanko: '#980281',
       },
       fontFamily: {
         display: ['"Archivo Black"', 'sans-serif'],

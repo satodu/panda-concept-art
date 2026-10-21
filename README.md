@@ -4,13 +4,39 @@ Three art concepts, each with **one master reference**, a library of **144 promp
 
 | Concept | Mood | Primary (identity) | Master reference |
 |---|---|---|---|
-| **Oriental Brutalismo** | dark, editorial, dry | vermilion `#E63946` | [`ORIENTAL BRUTALISMO.md`](oriental-brutalismo/ORIENTAL%20BRUTALISMO.md) |
+| **Oriental Brutalismo** | dark, editorial, dry | magenta `#980281` | [`ORIENTAL BRUTALISMO.md`](oriental-brutalismo/ORIENTAL%20BRUTALISMO.md) |
 | **Galdr** | dark, primitive Nordic cyberpunk, minimal | ice `#8FF3FF` | [`GALDR.md`](galdr/GALDR.md) |
 | **Shizuka** | aged paper, ink, calm and strange | shu `#A8473A` (the kanji) | [`SHIZUKA.md`](shizuka/SHIZUKA.md) |
 
+## Preview
+
+### Oriental Brutalismo
+
+![Oriental Brutalismo banner](media/oriental-brutalismo-banner.png)
+
+![Oriental Brutalismo intro](media/oriental-intro.gif)
+
+[Full quality video (mp4)](media/oriental-intro.mp4)
+
+### Galdr
+
+![Galdr banner](media/galdr-banner.png)
+
+![Galdr intro](media/galdr-intro.gif)
+
+[Full quality video (mp4)](media/galdr-intro.mp4)
+
+### Shizuka
+
+![Shizuka banner](media/shizuka-banner.png)
+
+![Shizuka intro](media/shizuka-intro.gif)
+
+[Full quality video (mp4)](media/shizuka-intro.mp4)
+
 ## Two rules that apply to all three
 
-1. **Every piece of art depends on one primary color.** Changing `--color-primary` (CSS), `primary` (Remotion) or `--primary` (scripts) changes the whole art. The contrast of each variation is computed in `docs/10` of every concept.
+1. **Every piece of art depends on one primary color.** Changing `--color-primary` (CSS), `primary` (Remotion) or `--primary` (scripts) changes the whole art. The contrast of each variation is computed in `docs/10` of every concept. Use of a primary color is free; the primary of Oriental Brutalismo is `#980281` (magenta).
 2. **Own black and white.** Never `#000000` or `#FFFFFF`: each concept has its own tinted black and white (`color.black`, `color.white`).
 
 ## Structure
@@ -42,9 +68,11 @@ npm run assets                                # 24 assets (SVG+PNG) in out/asset
 npm run typecheck
 ```
 
+The files in `media/` are the intro videos (`npx remotion render src/index.ts <Concept>-Intro media/<concept>-intro.mp4`) and the banners (`node tools/make-asset.mjs --concept <concept> --type banner --png`).
+
 Node 20+ (tested with v26). Remotion downloads a headless Chrome on the first render.
 
-## Remotion compositions (30 fps, no videos in the repository)
+## Remotion compositions (30 fps)
 
 | Concept | Ids |
 |---|---|

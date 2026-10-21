@@ -11,11 +11,11 @@ An imaginary operating system edited like an avant-garde Japanese design magazin
 | **Bento** | Information in rectangular modules with the same rhythm | `gap-4`/`gap-6` grid, `rounded-2xl` cards |
 | **Ma (間)** | Emptiness is part of the design | generous padding (`p-6` to `p-8`), few elements per card |
 | **Brutalism** | Honest structure, no gratuitous ornament | 1px hairlines, solid blocks, heavy typography |
-| **Hanko (判子)** | A single red signature | seal, status dot, highlight, primary button |
+| **Hanko (判子)** | A single magenta signature | seal, status dot, highlight, primary button |
 
 ## Visual voice
 
-- Silence with a shout: everything is dark and neutral, except **one** red point per screen.
+- Silence with a shout: everything is dark and neutral, except **one** primary point per screen.
 - Heavy uppercase titles that **end with a full stop**: `PROJECT.`, `SYSTEM.`
 - The oriental layer as structure, not as costume: vertical kanji/katakana columns work as rulers.
 - The technical layer: mono for tags and coordinates (`[ 0.1.0 ]`, `In.`, `Git.`, `#01`).
@@ -34,5 +34,5 @@ Products for children, retail e-commerce, anything that needs emotional warmth. 
 |---|---|---|---|
 | Mood | tense, editorial | terse, ritual, serious | calm, strange |
 | Background | near black | near black | aged paper |
-| Accent | red | ice cyan | one faded red kanji |
+| Accent | magenta | ice cyan | one faded red kanji |
 | Corners | rounded + hairline | 45° chamfer | large radius |

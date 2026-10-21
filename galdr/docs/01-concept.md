@@ -40,7 +40,7 @@ Light or casual products. The concept asks for careful reading.
 | | Galdr | Oriental Brutalismo |
 |---|---|---|
 | Myth | primitive Nordic cyberpunk, rune archive | Japanese editorial brutalism |
-| Accent | ice `#8FF3FF` | vermilion `#E63946` |
+| Accent | ice `#8FF3FF` | magenta `#980281` |
 | Canvas | near black `#0C0C0B` | charcoal `#090a0f` |
 | Corners | 45° chamfer | radius + hairline |
 | Depth | light and frost | hairline |

@@ -52,7 +52,7 @@ Card header: mono label on the left (`STATUS`) and index on the right (`01`).
 .btn--primary { background: var(--color-primary); border-color: var(--color-primary); color: var(--color-on-primary); }
 ```
 
-Only **one** red primary button per screen.
+Only **one** magenta primary button per screen.
 
 ## Tag / pill
 
@@ -93,7 +93,7 @@ Apply with `transform: rotate(-3deg)` and a "stamp" animation (see `08-motion-an
 | State | Treatment |
 |---|---|
 | Hover | `translateY(-2px)` and `hairlineStrong` border |
-| Active/online | 9px red dot and red mono label `ACTIVE` |
+| Active/online | 9px magenta dot and magenta mono label `ACTIVE` |
 | Inactive | `hairlineStrong` dot and muted label `QUEUE` |
 | Focus (keyboard) | `outline: 1px solid var(--color-primary); outline-offset: 3px` |
 | Disabled | `opacity: .4`, no hover |
